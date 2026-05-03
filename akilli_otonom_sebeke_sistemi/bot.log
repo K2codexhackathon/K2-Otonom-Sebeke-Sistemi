@@ -1,0 +1,793 @@
+2026-05-02 20:34:34,329 [INFO] 🤖 Akıllı Şebeke Canlı Veri Botu Başlatıldı
+2026-05-02 20:34:34,329 [INFO] ⚙️  Mod: HACKATHON | Bekleme: 3s/saat | Döngü: True
+2026-05-02 20:34:34,329 [INFO] 📂 Geçmiş CSV'ler okunuyor...
+2026-05-02 20:34:34,394 [INFO] ✅ 4392 saatlik veri hazırlandı. Aralık: 2025-11-01 00:00:00 → 2026-05-01 23:00:00
+2026-05-02 20:34:34,394 [INFO] 📦 İlk 24 saatlik taban veri panele yüklendi.
+2026-05-02 20:34:34,394 [INFO] 📡 CANLI YAYIN BAŞLIYOR...
+2026-05-02 20:35:01,429 [INFO] [2025-11-02 09:00:00] Tur 1 | ⚡ 30,347 MWh | 🌱 %18.5 yeşil | 💨 1,710 MWh rüzgar
+2026-05-02 20:35:31,452 [INFO] [2025-11-02 19:00:00] Tur 1 | ⚡ 37,827 MWh | 🌱 %4.3 yeşil | 💨 1,628 MWh rüzgar
+2026-05-02 20:36:01,475 [INFO] [2025-11-03 05:00:00] Tur 1 | ⚡ 28,878 MWh | 🌱 %4.0 yeşil | 💨 1,144 MWh rüzgar
+2026-05-02 20:37:18,366 [INFO] 🤖 Akıllı Şebeke Canlı Veri Botu Başlatıldı
+2026-05-02 20:37:18,366 [INFO] ⚙️  Mod: HACKATHON | Bekleme: 3s/saat | Döngü: True
+2026-05-02 20:37:18,366 [INFO] 📂 Geçmiş CSV'ler okunuyor...
+2026-05-02 20:37:18,440 [INFO] ✅ 4392 saatlik veri hazırlandı. Aralık: 2025-11-01 00:00:00 → 2026-05-01 23:00:00
+2026-05-02 20:37:18,442 [INFO] 🗑️  Eski canli_veri.csv silindi.
+2026-05-02 20:37:18,442 [INFO] 📦 İlk 24 saatlik taban veri panele yüklendi.
+2026-05-02 20:37:18,442 [INFO] 📡 CANLI YAYIN BAŞLIYOR...
+2026-05-02 20:37:45,467 [INFO] [2025-11-02 09:00:00] Tur 1 | ⚡ 30,347 MWh | 🌱 %18.5 yeşil | 💨 1,710 MWh rüzgar
+2026-05-02 20:38:15,492 [INFO] [2025-11-02 19:00:00] Tur 1 | ⚡ 37,827 MWh | 🌱 %4.3 yeşil | 💨 1,628 MWh rüzgar
+2026-05-02 20:38:52,735 [INFO] 🤖 Akıllı Şebeke Canlı Veri Botu Başlatıldı
+2026-05-02 20:38:52,735 [INFO] ⚙️  Mod: HACKATHON | Bekleme: 3s/saat | Döngü: True
+2026-05-02 20:38:52,735 [INFO] 📂 Geçmiş CSV'ler okunuyor...
+2026-05-02 20:38:52,794 [INFO] ✅ 4392 saatlik veri hazırlandı. Aralık: 2025-11-01 00:00:00 → 2026-05-01 23:00:00
+2026-05-02 20:38:52,804 [INFO] 🗑️  Eski canli_veri.csv silindi.
+2026-05-02 20:38:52,804 [INFO] 📦 İlk 24 saatlik taban veri panele yüklendi.
+2026-05-02 20:38:52,804 [INFO] 📡 CANLI YAYIN BAŞLIYOR...
+2026-05-02 20:39:19,835 [INFO] [2025-11-02 09:00:00] Tur 1 | ⚡ 30,347 MWh | 🌱 %18.5 yeşil | 💨 1,710 MWh rüzgar
+2026-05-02 20:39:49,857 [INFO] [2025-11-02 19:00:00] Tur 1 | ⚡ 37,827 MWh | 🌱 %4.3 yeşil | 💨 1,628 MWh rüzgar
+2026-05-02 20:40:19,880 [INFO] [2025-11-03 05:00:00] Tur 1 | ⚡ 28,878 MWh | 🌱 %4.0 yeşil | 💨 1,144 MWh rüzgar
+2026-05-02 20:40:49,901 [INFO] [2025-11-03 15:00:00] Tur 1 | ⚡ 41,470 MWh | 🌱 %6.3 yeşil | 💨 758 MWh rüzgar
+2026-05-02 20:41:19,924 [INFO] [2025-11-04 01:00:00] Tur 1 | ⚡ 32,906 MWh | 🌱 %3.5 yeşil | 💨 1,166 MWh rüzgar
+2026-05-02 20:41:49,945 [INFO] [2025-11-04 11:00:00] Tur 1 | ⚡ 41,728 MWh | 🌱 %9.1 yeşil | 💨 303 MWh rüzgar
+2026-05-02 20:42:19,967 [INFO] [2025-11-04 21:00:00] Tur 1 | ⚡ 40,578 MWh | 🌱 %8.2 yeşil | 💨 3,340 MWh rüzgar
+2026-05-02 20:42:49,989 [INFO] [2025-11-05 07:00:00] Tur 1 | ⚡ 34,915 MWh | 🌱 %14.9 yeşil | 💨 4,817 MWh rüzgar
+2026-05-02 20:43:20,011 [INFO] [2025-11-05 17:00:00] Tur 1 | ⚡ 44,331 MWh | 🌱 %13.4 yeşil | 💨 5,804 MWh rüzgar
+2026-05-02 20:43:50,033 [INFO] [2025-11-06 03:00:00] Tur 1 | ⚡ 31,578 MWh | 🌱 %19.7 yeşil | 💨 6,213 MWh rüzgar
+2026-05-02 20:44:20,053 [INFO] [2025-11-06 13:00:00] Tur 1 | ⚡ 41,272 MWh | 🌱 %19.8 yeşil | 💨 4,460 MWh rüzgar
+2026-05-02 20:44:50,075 [INFO] [2025-11-06 23:00:00] Tur 1 | ⚡ 37,049 MWh | 🌱 %12.5 yeşil | 💨 4,622 MWh rüzgar
+2026-05-02 20:45:20,096 [INFO] [2025-11-07 09:00:00] Tur 1 | ⚡ 41,389 MWh | 🌱 %13.4 yeşil | 💨 3,456 MWh rüzgar
+2026-05-02 20:45:50,117 [INFO] [2025-11-07 19:00:00] Tur 1 | ⚡ 42,694 MWh | 🌱 %4.8 yeşil | 💨 2,041 MWh rüzgar
+2026-05-02 20:46:20,138 [INFO] [2025-11-08 05:00:00] Tur 1 | ⚡ 30,921 MWh | 🌱 %4.9 yeşil | 💨 1,517 MWh rüzgar
+2026-05-02 20:46:50,160 [INFO] [2025-11-08 15:00:00] Tur 1 | ⚡ 38,555 MWh | 🌱 %12.4 yeşil | 💨 2,067 MWh rüzgar
+2026-05-02 20:47:20,182 [INFO] [2025-11-09 01:00:00] Tur 1 | ⚡ 31,569 MWh | 🌱 %12.2 yeşil | 💨 3,861 MWh rüzgar
+2026-05-02 20:47:50,202 [INFO] [2025-11-09 11:00:00] Tur 1 | ⚡ 32,378 MWh | 🌱 %22.0 yeşil | 💨 2,210 MWh rüzgar
+2026-05-02 20:48:20,228 [INFO] [2025-11-09 21:00:00] Tur 1 | ⚡ 35,339 MWh | 🌱 %3.6 yeşil | 💨 1,265 MWh rüzgar
+2026-05-02 20:48:50,250 [INFO] [2025-11-10 07:00:00] Tur 1 | ⚡ 32,197 MWh | 🌱 %10.5 yeşil | 💨 3,154 MWh rüzgar
+2026-05-02 20:49:20,275 [INFO] [2025-11-10 17:00:00] Tur 1 | ⚡ 44,038 MWh | 🌱 %7.6 yeşil | 💨 3,259 MWh rüzgar
+2026-05-02 20:49:50,302 [INFO] [2025-11-11 03:00:00] Tur 1 | ⚡ 31,534 MWh | 🌱 %17.2 yeşil | 💨 5,402 MWh rüzgar
+2026-05-02 20:50:20,327 [INFO] [2025-11-11 13:00:00] Tur 1 | ⚡ 42,255 MWh | 🌱 %17.6 yeşil | 💨 4,149 MWh rüzgar
+2026-05-02 20:50:50,350 [INFO] [2025-11-11 23:00:00] Tur 1 | ⚡ 36,999 MWh | 🌱 %8.5 yeşil | 💨 3,144 MWh rüzgar
+2026-05-02 20:51:20,374 [INFO] [2025-11-12 09:00:00] Tur 1 | ⚡ 41,558 MWh | 🌱 %9.7 yeşil | 💨 2,095 MWh rüzgar
+2026-05-02 20:53:11,800 [INFO]  Akll ebeke Canl Veri Botu Balatld
+2026-05-02 20:53:11,801 [INFO]   Mod: HACKATHON  | Bekleme: 3s/saat | Dng: True
+2026-05-02 20:53:11,801 [INFO]  Gemi CSV'ler okunuyor...
+2026-05-02 20:53:11,880 [CRITICAL]  Veri yklenemedi: "['Tketim Miktar(MWh)'] not in index"
+Traceback (most recent call last):
+  File "C:\Users\melih\OneDrive\Desktop\claude\bot.py", line 151, in main
+    tum_veri = veri_hazirla()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\melih\OneDrive\Desktop\claude\bot.py", line 99, in veri_hazirla
+    tuketim_df[["zaman", "Tketim Miktar(MWh)"]],
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\melih\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4384, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\melih\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 6302, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\melih\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 6355, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['Tketim Miktar(MWh)'] not in index"
+2026-05-02 20:55:13,540 [INFO]  Akll ebeke Canl Veri Botu Balatld
+2026-05-02 20:55:13,540 [INFO]   Mod: HACKATHON  | Bekleme: 3s/saat | Dng: True
+2026-05-02 20:55:13,540 [INFO]  Gemi CSV'ler okunuyor...
+2026-05-02 20:55:13,606 [INFO]  4392 saatlik veri hazrland. Aralk: 2025-11-01 00:00:00  2026-05-01 23:00:00
+2026-05-02 20:55:13,606 [INFO]  lk 24 saatlik taban veri panele yklendi.
+2026-05-02 20:55:13,606 [INFO]  CANLI YAYIN BALIYOR...
+2026-05-02 20:55:40,632 [INFO] [2025-11-02 09:00:00] Tur 1 |  30,347 MWh |  %18.5 yeil |  1,710 MWh rüzgar
+2026-05-02 20:56:10,652 [INFO] [2025-11-02 19:00:00] Tur 1 |  37,827 MWh |  %4.3 yeil |  1,628 MWh rüzgar
+2026-05-02 20:56:40,675 [INFO] [2025-11-03 05:00:00] Tur 1 |  28,878 MWh |  %4.0 yeil |  1,144 MWh rüzgar
+2026-05-02 20:57:10,695 [INFO] [2025-11-03 15:00:00] Tur 1 |  41,470 MWh |  %6.3 yeil |  758 MWh rüzgar
+2026-05-02 20:57:40,718 [INFO] [2025-11-04 01:00:00] Tur 1 |  32,906 MWh |  %3.5 yeil |  1,166 MWh rüzgar
+2026-05-02 20:58:10,740 [INFO] [2025-11-04 11:00:00] Tur 1 |  41,728 MWh |  %9.1 yeil |  303 MWh rüzgar
+2026-05-02 20:58:40,762 [INFO] [2025-11-04 21:00:00] Tur 1 |  40,578 MWh |  %8.2 yeil |  3,340 MWh rüzgar
+2026-05-02 20:59:10,784 [INFO] [2025-11-05 07:00:00] Tur 1 |  34,915 MWh |  %14.9 yeil |  4,817 MWh rüzgar
+2026-05-02 20:59:40,806 [INFO] [2025-11-05 17:00:00] Tur 1 |  44,331 MWh |  %13.4 yeil |  5,804 MWh rüzgar
+2026-05-02 21:00:10,828 [INFO] [2025-11-06 03:00:00] Tur 1 |  31,578 MWh |  %19.7 yeil |  6,213 MWh rüzgar
+2026-05-02 21:00:40,852 [INFO] [2025-11-06 13:00:00] Tur 1 |  41,272 MWh |  %19.8 yeil |  4,460 MWh rüzgar
+2026-05-02 21:01:10,903 [INFO] [2025-11-06 23:00:00] Tur 1 |  37,049 MWh |  %12.5 yeil |  4,622 MWh rüzgar
+2026-05-02 21:51:19,082 [INFO] Akilli Sebeke Canli Veri Botu Baslatildi
+2026-05-02 21:51:19,082 [INFO] Mod: HACKATHON | Bekleme: 3s/saat | Dongu: True
+2026-05-02 21:51:19,082 [INFO] Gecmis CSV'ler okunuyor...
+2026-05-02 21:51:19,148 [INFO] 4392 saatlik veri hazirland. Aralik: 2025-11-01 00:00:00 -> 2026-05-01 23:00:00
+2026-05-02 21:51:19,148 [INFO] Eski canli_veri.csv silindi.
+2026-05-02 21:51:19,164 [INFO] Ilk 24 saatlik taban veri panele yuklendi.
+2026-05-02 21:51:19,164 [INFO] CANLI YAYIN BASLIYOR...
+2026-05-02 21:51:46,187 [INFO] [2025-11-02 09:00:00] Tur 1 | 30,347 MWh | %18.5 yesil | 1,710 MWh ruzgar
+2026-05-02 21:52:16,210 [INFO] [2025-11-02 19:00:00] Tur 1 | 37,827 MWh | %4.3 yesil | 1,628 MWh ruzgar
+2026-05-02 21:52:46,234 [INFO] [2025-11-03 05:00:00] Tur 1 | 28,878 MWh | %4.0 yesil | 1,144 MWh ruzgar
+2026-05-02 21:53:16,258 [INFO] [2025-11-03 15:00:00] Tur 1 | 41,470 MWh | %6.3 yesil | 758 MWh ruzgar
+2026-05-02 21:53:41,097 [INFO] [2025-11-04 01:00:00] Tur 1 | 32,906 MWh | %3.5 yesil | 1,166 MWh ruzgar
+2026-05-02 21:54:49,763 [INFO] Akilli Sebeke Canli Veri Botu Baslatildi
+2026-05-02 21:54:49,763 [INFO] Mod: HACKATHON | Bekleme: 3s/saat | Dongu: True
+2026-05-02 21:54:49,763 [INFO] Gecmis CSV'ler okunuyor...
+2026-05-02 21:54:49,830 [INFO] 4392 saatlik veri hazirland. Aralik: 2025-11-01 00:00:00 -> 2026-05-01 23:00:00
+2026-05-02 21:54:49,830 [INFO] Eski canli_veri.csv silindi.
+2026-05-02 21:54:49,841 [INFO] Ilk 24 saatlik taban veri panele yuklendi.
+2026-05-02 21:54:49,841 [INFO] CANLI YAYIN BASLIYOR...
+2026-05-02 21:55:16,866 [INFO] [2025-11-02 09:00:00] Tur 1 | 30,347 MWh | %18.5 yesil | 1,710 MWh ruzgar
+2026-05-02 21:55:46,887 [INFO] [2025-11-02 19:00:00] Tur 1 | 37,827 MWh | %4.3 yesil | 1,628 MWh ruzgar
+2026-05-02 21:56:16,910 [INFO] [2025-11-03 05:00:00] Tur 1 | 28,878 MWh | %4.0 yesil | 1,144 MWh ruzgar
+2026-05-02 21:56:46,931 [INFO] [2025-11-03 15:00:00] Tur 1 | 41,470 MWh | %6.3 yesil | 758 MWh ruzgar
+2026-05-02 21:57:16,954 [INFO] [2025-11-04 01:00:00] Tur 1 | 32,906 MWh | %3.5 yesil | 1,166 MWh ruzgar
+2026-05-02 21:57:46,976 [INFO] [2025-11-04 11:00:00] Tur 1 | 41,728 MWh | %9.1 yesil | 303 MWh ruzgar
+2026-05-02 21:58:16,999 [INFO] [2025-11-04 21:00:00] Tur 1 | 40,578 MWh | %8.2 yesil | 3,340 MWh ruzgar
+2026-05-02 21:58:47,024 [INFO] [2025-11-05 07:00:00] Tur 1 | 34,915 MWh | %14.9 yesil | 4,817 MWh ruzgar
+2026-05-02 21:59:17,046 [INFO] [2025-11-05 17:00:00] Tur 1 | 44,331 MWh | %13.4 yesil | 5,804 MWh ruzgar
+2026-05-02 21:59:47,069 [INFO] [2025-11-06 03:00:00] Tur 1 | 31,578 MWh | %19.7 yesil | 6,213 MWh ruzgar
+2026-05-02 22:00:17,092 [INFO] [2025-11-06 13:00:00] Tur 1 | 41,272 MWh | %19.8 yesil | 4,460 MWh ruzgar
+2026-05-02 22:00:47,115 [INFO] [2025-11-06 23:00:00] Tur 1 | 37,049 MWh | %12.5 yesil | 4,622 MWh ruzgar
+2026-05-02 22:01:17,136 [INFO] [2025-11-07 09:00:00] Tur 1 | 41,389 MWh | %13.4 yesil | 3,456 MWh ruzgar
+2026-05-02 22:01:47,159 [INFO] [2025-11-07 19:00:00] Tur 1 | 42,694 MWh | %4.8 yesil | 2,041 MWh ruzgar
+2026-05-02 22:02:17,181 [INFO] [2025-11-08 05:00:00] Tur 1 | 30,921 MWh | %4.9 yesil | 1,517 MWh ruzgar
+2026-05-02 22:02:47,205 [INFO] [2025-11-08 15:00:00] Tur 1 | 38,555 MWh | %12.4 yesil | 2,067 MWh ruzgar
+2026-05-02 22:03:17,229 [INFO] [2025-11-09 01:00:00] Tur 1 | 31,569 MWh | %12.2 yesil | 3,861 MWh ruzgar
+2026-05-02 22:03:47,253 [INFO] [2025-11-09 11:00:00] Tur 1 | 32,378 MWh | %22.0 yesil | 2,210 MWh ruzgar
+2026-05-02 22:04:17,279 [INFO] [2025-11-09 21:00:00] Tur 1 | 35,339 MWh | %3.6 yesil | 1,265 MWh ruzgar
+2026-05-02 22:04:47,301 [INFO] [2025-11-10 07:00:00] Tur 1 | 32,197 MWh | %10.5 yesil | 3,154 MWh ruzgar
+2026-05-02 22:05:17,324 [INFO] [2025-11-10 17:00:00] Tur 1 | 44,038 MWh | %7.6 yesil | 3,259 MWh ruzgar
+2026-05-02 22:05:47,344 [INFO] [2025-11-11 03:00:00] Tur 1 | 31,534 MWh | %17.2 yesil | 5,402 MWh ruzgar
+2026-05-02 22:06:17,367 [INFO] [2025-11-11 13:00:00] Tur 1 | 42,255 MWh | %17.6 yesil | 4,149 MWh ruzgar
+2026-05-02 22:06:47,390 [INFO] [2025-11-11 23:00:00] Tur 1 | 36,999 MWh | %8.5 yesil | 3,144 MWh ruzgar
+2026-05-02 22:07:17,415 [INFO] [2025-11-12 09:00:00] Tur 1 | 41,558 MWh | %9.7 yesil | 2,095 MWh ruzgar
+2026-05-02 22:07:47,437 [INFO] [2025-11-12 19:00:00] Tur 1 | 43,276 MWh | %5.8 yesil | 2,511 MWh ruzgar
+2026-05-02 22:08:17,460 [INFO] [2025-11-13 05:00:00] Tur 1 | 31,921 MWh | %8.6 yesil | 2,755 MWh ruzgar
+2026-05-02 22:08:47,481 [INFO] [2025-11-13 15:00:00] Tur 1 | 43,468 MWh | %10.7 yesil | 3,110 MWh ruzgar
+2026-05-02 22:09:17,505 [INFO] [2025-11-14 01:00:00] Tur 1 | 34,070 MWh | %9.1 yesil | 3,082 MWh ruzgar
+2026-05-02 22:09:47,530 [INFO] [2025-11-14 11:00:00] Tur 1 | 43,576 MWh | %13.4 yesil | 2,856 MWh ruzgar
+2026-05-02 22:10:17,551 [INFO] [2025-11-14 21:00:00] Tur 1 | 40,918 MWh | %10.8 yesil | 4,420 MWh ruzgar
+2026-05-02 22:10:47,574 [INFO] [2025-11-15 07:00:00] Tur 1 | 33,009 MWh | %12.9 yesil | 4,172 MWh ruzgar
+2026-05-02 22:11:17,595 [INFO] [2025-11-15 17:00:00] Tur 1 | 41,928 MWh | %5.8 yesil | 2,355 MWh ruzgar
+2026-05-02 22:11:47,615 [INFO] [2025-11-16 03:00:00] Tur 1 | 30,397 MWh | %6.0 yesil | 1,806 MWh ruzgar
+2026-05-02 22:12:17,636 [INFO] [2025-11-16 13:00:00] Tur 1 | 34,100 MWh | %16.5 yesil | 1,387 MWh ruzgar
+2026-05-02 22:12:47,657 [INFO] [2025-11-16 23:00:00] Tur 1 | 34,938 MWh | %10.2 yesil | 3,557 MWh ruzgar
+2026-05-02 22:13:17,678 [INFO] [2025-11-17 09:00:00] Tur 1 | 42,496 MWh | %24.9 yesil | 6,618 MWh ruzgar
+2026-05-02 22:13:47,701 [INFO] [2025-11-17 19:00:00] Tur 1 | 43,979 MWh | %18.5 yesil | 8,128 MWh ruzgar
+2026-05-02 22:14:17,723 [INFO] [2025-11-18 05:00:00] Tur 1 | 32,455 MWh | %26.6 yesil | 8,603 MWh ruzgar
+2026-05-02 22:14:47,743 [INFO] [2025-11-18 15:00:00] Tur 1 | 42,171 MWh | %24.4 yesil | 6,940 MWh ruzgar
+2026-05-02 22:15:17,763 [INFO] [2025-11-19 01:00:00] Tur 1 | 33,945 MWh | %22.7 yesil | 7,687 MWh ruzgar
+2026-05-02 22:15:47,787 [INFO] [2025-11-19 11:00:00] Tur 1 | 43,509 MWh | %25.4 yesil | 6,039 MWh ruzgar
+2026-05-02 22:16:17,806 [INFO] [2025-11-19 21:00:00] Tur 1 | 41,672 MWh | %14.6 yesil | 6,059 MWh ruzgar
+2026-05-02 22:16:47,828 [INFO] [2025-11-20 07:00:00] Tur 1 | 36,373 MWh | %20.1 yesil | 7,066 MWh ruzgar
+2026-05-02 22:17:17,850 [INFO] [2025-11-20 17:00:00] Tur 1 | 45,251 MWh | %13.8 yesil | 6,130 MWh ruzgar
+2026-05-02 22:17:47,873 [INFO] [2025-11-21 03:00:00] Tur 1 | 32,288 MWh | %24.5 yesil | 7,893 MWh ruzgar
+2026-05-02 22:18:17,893 [INFO] [2025-11-21 13:00:00] Tur 1 | 40,257 MWh | %34.0 yesil | 7,695 MWh ruzgar
+2026-05-02 22:18:47,914 [INFO] [2025-11-21 23:00:00] Tur 1 | 38,005 MWh | %17.3 yesil | 6,543 MWh ruzgar
+2026-05-02 22:19:17,936 [INFO] [2025-11-22 09:00:00] Tur 1 | 38,632 MWh | %27.1 yesil | 7,267 MWh ruzgar
+2026-05-02 22:19:47,957 [INFO] [2025-11-22 19:00:00] Tur 1 | 41,426 MWh | %13.7 yesil | 5,663 MWh ruzgar
+2026-05-02 22:20:17,977 [INFO] [2025-11-23 05:00:00] Tur 1 | 29,722 MWh | %22.9 yesil | 6,783 MWh ruzgar
+2026-05-02 22:20:47,998 [INFO] [2025-11-23 15:00:00] Tur 1 | 34,386 MWh | %32.6 yesil | 8,044 MWh ruzgar
+2026-05-02 22:21:18,021 [INFO] [2025-11-24 01:00:00] Tur 1 | 30,875 MWh | %13.4 yesil | 4,127 MWh ruzgar
+2026-05-02 22:21:48,044 [INFO] [2025-11-24 11:00:00] Tur 1 | 43,429 MWh | %11.8 yesil | 2,578 MWh ruzgar
+2026-05-02 22:22:18,066 [INFO] [2025-11-24 21:00:00] Tur 1 | 42,022 MWh | %3.7 yesil | 1,569 MWh ruzgar
+2026-05-02 22:22:48,088 [INFO] [2025-11-25 07:00:00] Tur 1 | 36,626 MWh | %7.3 yesil | 2,588 MWh ruzgar
+2026-05-02 22:23:18,110 [INFO] [2025-11-25 17:00:00] Tur 1 | 46,612 MWh | %6.3 yesil | 2,896 MWh ruzgar
+2026-05-02 22:23:48,130 [INFO] [2025-11-26 03:00:00] Tur 1 | 32,376 MWh | %20.6 yesil | 6,660 MWh ruzgar
+2026-05-02 22:24:18,151 [INFO] [2025-11-26 13:00:00] Tur 1 | 42,304 MWh | %28.1 yesil | 7,164 MWh ruzgar
+2026-05-02 22:24:48,172 [INFO] [2025-11-26 23:00:00] Tur 1 | 38,702 MWh | %17.9 yesil | 6,905 MWh ruzgar
+2026-05-02 22:25:18,194 [INFO] [2025-11-27 09:00:00] Tur 1 | 43,530 MWh | %23.5 yesil | 7,148 MWh ruzgar
+2026-05-02 22:25:48,214 [INFO] [2025-11-27 19:00:00] Tur 1 | 44,864 MWh | %11.0 yesil | 4,912 MWh ruzgar
+2026-05-02 22:26:18,239 [INFO] [2025-11-28 05:00:00] Tur 1 | 33,001 MWh | %13.1 yesil | 4,314 MWh ruzgar
+2026-05-02 22:26:48,260 [INFO] [2025-11-28 15:00:00] Tur 1 | 43,154 MWh | %12.5 yesil | 3,783 MWh ruzgar
+2026-05-02 22:27:18,283 [INFO] [2025-11-29 01:00:00] Tur 1 | 34,408 MWh | %16.2 yesil | 5,564 MWh ruzgar
+2026-05-02 22:27:48,304 [INFO] [2025-11-29 11:00:00] Tur 1 | 41,535 MWh | %22.3 yesil | 5,601 MWh ruzgar
+2026-05-02 22:28:18,326 [INFO] [2025-11-29 21:00:00] Tur 1 | 40,416 MWh | %13.4 yesil | 5,405 MWh ruzgar
+2026-05-02 22:28:48,346 [INFO] [2025-11-30 07:00:00] Tur 1 | 29,953 MWh | %10.9 yesil | 3,193 MWh ruzgar
+2026-05-02 22:29:18,368 [INFO] [2025-11-30 17:00:00] Tur 1 | 39,663 MWh | %5.9 yesil | 2,317 MWh ruzgar
+2026-05-02 22:29:48,389 [INFO] [2025-12-01 03:00:00] Tur 1 | 29,853 MWh | %7.1 yesil | 2,120 MWh ruzgar
+2026-05-02 22:30:18,409 [INFO] [2025-12-01 13:00:00] Tur 1 | 43,874 MWh | %8.6 yesil | 984 MWh ruzgar
+2026-05-02 22:30:48,430 [INFO] [2025-12-01 23:00:00] Tur 1 | 39,617 MWh | %1.6 yesil | 650 MWh ruzgar
+2026-05-02 22:31:18,451 [INFO] [2025-12-02 09:00:00] Tur 1 | 45,300 MWh | %5.5 yesil | 460 MWh ruzgar
+2026-05-02 22:31:48,473 [INFO] [2025-12-02 19:00:00] Tur 1 | 46,335 MWh | %0.7 yesil | 305 MWh ruzgar
+2026-05-02 22:32:18,493 [INFO] [2025-12-03 05:00:00] Tur 1 | 33,516 MWh | %1.9 yesil | 637 MWh ruzgar
+2026-05-02 22:32:48,516 [INFO] [2025-12-03 15:00:00] Tur 1 | 44,757 MWh | %5.3 yesil | 441 MWh ruzgar
+2026-05-02 22:33:18,536 [INFO] [2025-12-04 01:00:00] Tur 1 | 35,672 MWh | %5.5 yesil | 1,943 MWh ruzgar
+2026-05-02 22:33:48,557 [INFO] [2025-12-04 11:00:00] Tur 1 | 46,612 MWh | %11.1 yesil | 2,922 MWh ruzgar
+2026-05-02 22:34:18,579 [INFO] [2025-12-04 21:00:00] Tur 1 | 43,873 MWh | %10.3 yesil | 4,515 MWh ruzgar
+2026-05-02 22:34:48,601 [INFO] [2025-12-05 07:00:00] Tur 1 | 37,849 MWh | %17.5 yesil | 6,552 MWh ruzgar
+2026-05-02 22:35:18,622 [INFO] [2025-12-05 17:00:00] Tur 1 | 48,636 MWh | %19.1 yesil | 9,236 MWh ruzgar
+2026-05-02 22:35:48,645 [INFO] [2025-12-06 03:00:00] Tur 1 | 32,828 MWh | %23.7 yesil | 7,777 MWh ruzgar
+2026-05-02 22:36:18,667 [INFO] [2025-12-06 13:00:00] Tur 1 | 43,064 MWh | %12.2 yesil | 3,959 MWh ruzgar
+2026-05-02 22:36:48,687 [INFO] [2025-12-06 23:00:00] Tur 1 | 37,722 MWh | %16.8 yesil | 6,330 MWh ruzgar
+2026-05-02 22:37:18,709 [INFO] [2025-12-07 09:00:00] Tur 1 | 32,458 MWh | %21.5 yesil | 5,779 MWh ruzgar
+2026-05-02 22:37:48,729 [INFO] [2025-12-07 19:00:00] Tur 1 | 40,869 MWh | %12.0 yesil | 4,910 MWh ruzgar
+2026-05-02 22:38:18,750 [INFO] [2025-12-08 05:00:00] Tur 1 | 30,548 MWh | %13.6 yesil | 4,147 MWh ruzgar
+2026-05-02 22:38:48,771 [INFO] [2025-12-08 15:00:00] Tur 1 | 46,898 MWh | %14.4 yesil | 6,018 MWh ruzgar
+2026-05-02 22:39:18,793 [INFO] [2025-12-09 01:00:00] Tur 1 | 35,443 MWh | %21.3 yesil | 7,554 MWh ruzgar
+2026-05-02 22:39:48,814 [INFO] [2025-12-09 11:00:00] Tur 1 | 47,504 MWh | %18.2 yesil | 6,974 MWh ruzgar
+2026-05-02 22:40:18,833 [INFO] [2025-12-09 21:00:00] Tur 1 | 43,525 MWh | %13.3 yesil | 5,760 MWh ruzgar
+2026-05-02 22:40:48,855 [INFO] [2025-12-10 07:00:00] Tur 1 | 38,736 MWh | %9.1 yesil | 3,490 MWh ruzgar
+2026-05-02 22:41:18,877 [INFO] [2025-12-10 17:00:00] Tur 1 | 48,621 MWh | %4.4 yesil | 2,118 MWh ruzgar
+2026-05-02 22:41:48,900 [INFO] [2025-12-11 03:00:00] Tur 1 | 33,565 MWh | %11.9 yesil | 3,986 MWh ruzgar
+2026-05-02 22:42:18,923 [INFO] [2025-12-11 13:00:00] Tur 1 | 45,938 MWh | %11.6 yesil | 3,635 MWh ruzgar
+2026-05-02 22:42:48,946 [INFO] [2025-12-11 23:00:00] Tur 1 | 38,816 MWh | %7.1 yesil | 2,752 MWh ruzgar
+2026-05-02 22:43:18,967 [INFO] [2025-12-12 09:00:00] Tur 1 | 46,580 MWh | %5.4 yesil | 1,479 MWh ruzgar
+2026-05-02 22:43:48,989 [INFO] [2025-12-12 19:00:00] Tur 1 | 46,430 MWh | %4.5 yesil | 2,102 MWh ruzgar
+2026-05-02 22:44:19,010 [INFO] [2025-12-13 05:00:00] Tur 1 | 33,285 MWh | %16.0 yesil | 5,325 MWh ruzgar
+2026-05-02 22:44:49,030 [INFO] [2025-12-13 15:00:00] Tur 1 | 42,000 MWh | %18.7 yesil | 5,549 MWh ruzgar
+2026-05-02 22:45:19,052 [INFO] [2025-12-14 01:00:00] Tur 1 | 34,570 MWh | %14.0 yesil | 4,816 MWh ruzgar
+2026-05-02 22:45:49,074 [INFO] [2025-12-14 11:00:00] Tur 1 | 35,369 MWh | %14.9 yesil | 1,773 MWh ruzgar
+2026-05-02 22:46:19,094 [INFO] [2025-12-14 21:00:00] Tur 1 | 40,249 MWh | %5.6 yesil | 2,229 MWh ruzgar
+2026-05-02 22:46:49,116 [INFO] [2025-12-15 07:00:00] Tur 1 | 36,954 MWh | %15.7 yesil | 5,759 MWh ruzgar
+2026-05-02 22:47:19,137 [INFO] [2025-12-15 17:00:00] Tur 1 | 49,941 MWh | %10.9 yesil | 5,366 MWh ruzgar
+2026-05-02 22:47:49,158 [INFO] [2025-12-16 03:00:00] Tur 1 | 34,207 MWh | %12.5 yesil | 4,281 MWh ruzgar
+2026-05-02 22:48:19,180 [INFO] [2025-12-16 13:00:00] Tur 1 | 45,999 MWh | %14.2 yesil | 3,675 MWh ruzgar
+2026-05-02 22:48:49,201 [INFO] [2025-12-16 23:00:00] Tur 1 | 40,577 MWh | %14.8 yesil | 5,981 MWh ruzgar
+2026-05-02 22:49:19,221 [INFO] [2025-12-17 09:00:00] Tur 1 | 47,920 MWh | %13.7 yesil | 4,151 MWh ruzgar
+2026-05-02 22:49:49,243 [INFO] [2025-12-17 19:00:00] Tur 1 | 47,825 MWh | %4.5 yesil | 2,142 MWh ruzgar
+2026-05-02 22:50:19,263 [INFO] [2025-12-18 05:00:00] Tur 1 | 34,636 MWh | %3.6 yesil | 1,239 MWh ruzgar
+2026-05-02 22:50:49,284 [INFO] [2025-12-18 15:00:00] Tur 1 | 46,229 MWh | %7.1 yesil | 904 MWh ruzgar
+2026-05-02 22:51:19,307 [INFO] [2025-12-19 01:00:00] Tur 1 | 36,870 MWh | %2.9 yesil | 1,054 MWh ruzgar
+2026-05-02 22:51:49,329 [INFO] [2025-12-19 11:00:00] Tur 1 | 47,585 MWh | %9.8 yesil | 1,121 MWh ruzgar
+2026-05-02 22:52:19,352 [INFO] [2025-12-19 21:00:00] Tur 1 | 44,607 MWh | %8.3 yesil | 3,704 MWh ruzgar
+2026-05-02 22:52:49,372 [INFO] [2025-12-20 07:00:00] Tur 1 | 36,334 MWh | %11.1 yesil | 4,000 MWh ruzgar
+2026-05-02 22:53:19,394 [INFO] [2025-12-20 17:00:00] Tur 1 | 45,465 MWh | %7.4 yesil | 3,306 MWh ruzgar
+2026-05-02 22:53:49,418 [INFO] [2025-12-21 03:00:00] Tur 1 | 32,337 MWh | %9.2 yesil | 2,955 MWh ruzgar
+2026-05-02 22:54:19,438 [INFO] [2025-12-21 13:00:00] Tur 1 | 38,513 MWh | %11.6 yesil | 2,495 MWh ruzgar
+2026-05-02 22:54:49,459 [INFO] [2025-12-21 23:00:00] Tur 1 | 36,773 MWh | %11.6 yesil | 4,274 MWh ruzgar
+2026-05-02 22:55:19,481 [INFO] [2025-12-22 09:00:00] Tur 1 | 46,970 MWh | %13.1 yesil | 5,002 MWh ruzgar
+2026-05-02 22:55:49,502 [INFO] [2025-12-22 19:00:00] Tur 1 | 47,394 MWh | %14.5 yesil | 6,859 MWh ruzgar
+2026-05-02 22:56:19,524 [INFO] [2025-12-23 05:00:00] Tur 1 | 34,072 MWh | %20.2 yesil | 6,867 MWh ruzgar
+2026-05-02 22:56:49,545 [INFO] [2025-12-23 15:00:00] Tur 1 | 48,223 MWh | %9.9 yesil | 3,429 MWh ruzgar
+2026-05-02 22:57:19,568 [INFO] [2025-12-24 01:00:00] Tur 1 | 36,378 MWh | %5.3 yesil | 1,916 MWh ruzgar
+2026-05-02 22:57:49,590 [INFO] [2025-12-24 11:00:00] Tur 1 | 47,467 MWh | %7.0 yesil | 1,386 MWh ruzgar
+2026-05-02 22:58:19,611 [INFO] [2025-12-24 21:00:00] Tur 1 | 44,375 MWh | %7.4 yesil | 3,284 MWh ruzgar
+2026-05-02 22:58:49,632 [INFO] [2025-12-25 07:00:00] Tur 1 | 38,772 MWh | %8.6 yesil | 3,299 MWh ruzgar
+2026-05-02 22:59:19,652 [INFO] [2025-12-25 17:00:00] Tur 1 | 50,046 MWh | %5.7 yesil | 2,817 MWh ruzgar
+2026-05-02 22:59:49,673 [INFO] [2025-12-26 03:00:00] Tur 1 | 34,172 MWh | %17.3 yesil | 5,891 MWh ruzgar
+2026-05-02 23:00:19,696 [INFO] [2025-12-26 13:00:00] Tur 1 | 45,816 MWh | %10.4 yesil | 3,403 MWh ruzgar
+2026-05-02 23:00:49,716 [INFO] [2025-12-26 23:00:00] Tur 1 | 40,934 MWh | %8.3 yesil | 3,391 MWh ruzgar
+2026-05-02 23:01:19,737 [INFO] [2025-12-27 09:00:00] Tur 1 | 42,579 MWh | %19.0 yesil | 7,537 MWh ruzgar
+2026-05-02 23:01:49,758 [INFO] [2025-12-27 19:00:00] Tur 1 | 46,109 MWh | %14.0 yesil | 6,424 MWh ruzgar
+2026-05-02 23:02:19,779 [INFO] [2025-12-28 05:00:00] Tur 1 | 32,174 MWh | %17.6 yesil | 5,633 MWh ruzgar
+2026-05-02 23:02:49,801 [INFO] [2025-12-28 15:00:00] Tur 1 | 39,780 MWh | %23.9 yesil | 6,353 MWh ruzgar
+2026-05-02 23:03:19,822 [INFO] [2025-12-29 01:00:00] Tur 1 | 34,054 MWh | %21.2 yesil | 7,206 MWh ruzgar
+2026-05-02 23:03:49,845 [INFO] [2025-12-29 11:00:00] Tur 1 | 49,583 MWh | %12.4 yesil | 3,788 MWh ruzgar
+2026-05-02 23:04:19,867 [INFO] [2025-12-29 21:00:00] Tur 1 | 45,574 MWh | %13.6 yesil | 6,207 MWh ruzgar
+2026-05-02 23:04:49,887 [INFO] [2025-12-30 07:00:00] Tur 1 | 38,946 MWh | %21.6 yesil | 8,336 MWh ruzgar
+2026-05-02 23:05:19,908 [INFO] [2025-12-30 17:00:00] Tur 1 | 50,160 MWh | %19.2 yesil | 9,537 MWh ruzgar
+2026-05-02 23:05:49,928 [INFO] [2025-12-31 03:00:00] Tur 1 | 33,462 MWh | %28.4 yesil | 9,480 MWh ruzgar
+2026-05-02 23:06:19,949 [INFO] [2025-12-31 13:00:00] Tur 1 | 48,188 MWh | %16.6 yesil | 7,112 MWh ruzgar
+2026-05-02 23:06:49,971 [INFO] [2025-12-31 23:00:00] Tur 1 | 35,515 MWh | %8.7 yesil | 3,091 MWh ruzgar
+2026-05-02 23:07:19,994 [INFO] [2026-01-01 09:00:00] Tur 1 | 32,317 MWh | %19.6 yesil | 5,867 MWh ruzgar
+2026-05-02 23:07:50,014 [INFO] [2026-01-01 19:00:00] Tur 1 | 42,704 MWh | %10.5 yesil | 4,478 MWh ruzgar
+2026-05-02 23:08:20,034 [INFO] [2026-01-02 05:00:00] Tur 1 | 31,630 MWh | %14.4 yesil | 4,546 MWh ruzgar
+2026-05-02 23:08:50,055 [INFO] [2026-01-02 15:00:00] Tur 1 | 47,524 MWh | %18.6 yesil | 5,902 MWh ruzgar
+2026-05-02 23:09:20,078 [INFO] [2026-01-03 01:00:00] Tur 1 | 36,330 MWh | %26.9 yesil | 9,760 MWh ruzgar
+2026-05-02 23:09:50,098 [INFO] [2026-01-03 11:00:00] Tur 1 | 45,903 MWh | %32.9 yesil | 10,912 MWh ruzgar
+2026-05-02 23:10:20,121 [INFO] [2026-01-03 21:00:00] Tur 1 | 42,676 MWh | %26.1 yesil | 11,120 MWh ruzgar
+2026-05-02 23:10:50,143 [INFO] [2026-01-04 07:00:00] Tur 1 | 31,855 MWh | %33.4 yesil | 10,554 MWh ruzgar
+2026-05-02 23:11:20,164 [INFO] [2026-01-04 17:00:00] Tur 1 | 41,412 MWh | %25.7 yesil | 10,524 MWh ruzgar
+2026-05-02 23:11:50,186 [INFO] [2026-01-05 03:00:00] Tur 1 | 31,504 MWh | %28.7 yesil | 9,013 MWh ruzgar
+2026-05-02 23:12:20,208 [INFO] [2026-01-05 13:00:00] Tur 1 | 46,976 MWh | %26.2 yesil | 7,528 MWh ruzgar
+2026-05-02 23:12:50,230 [INFO] [2026-01-05 23:00:00] Tur 1 | 41,133 MWh | %21.5 yesil | 8,808 MWh ruzgar
+2026-05-02 23:13:20,253 [INFO] [2026-01-06 09:00:00] Tur 1 | 46,767 MWh | %24.3 yesil | 9,230 MWh ruzgar
+2026-05-02 23:13:50,276 [INFO] [2026-01-06 19:00:00] Tur 1 | 46,909 MWh | %21.3 yesil | 9,971 MWh ruzgar
+2026-05-02 23:14:20,297 [INFO] [2026-01-07 05:00:00] Tur 1 | 34,363 MWh | %30.1 yesil | 10,312 MWh ruzgar
+2026-05-02 23:14:50,319 [INFO] [2026-01-07 15:00:00] Tur 1 | 45,739 MWh | %31.2 yesil | 11,054 MWh ruzgar
+2026-05-02 23:15:20,340 [INFO] [2026-01-08 01:00:00] Tur 1 | 36,104 MWh | %31.2 yesil | 11,246 MWh ruzgar
+2026-05-02 23:15:50,363 [INFO] [2026-01-08 11:00:00] Tur 1 | 48,652 MWh | %26.3 yesil | 10,924 MWh ruzgar
+2026-05-02 23:16:20,387 [INFO] [2026-01-08 21:00:00] Tur 1 | 44,226 MWh | %19.4 yesil | 8,573 MWh ruzgar
+2026-05-02 23:16:50,416 [INFO] [2026-01-09 07:00:00] Tur 1 | 38,840 MWh | %13.1 yesil | 5,045 MWh ruzgar
+2026-05-02 23:17:20,436 [INFO] [2026-01-09 17:00:00] Tur 1 | 49,727 MWh | %12.5 yesil | 6,116 MWh ruzgar
+2026-05-02 23:17:50,459 [INFO] [2026-01-10 03:00:00] Tur 1 | 34,318 MWh | %29.3 yesil | 10,019 MWh ruzgar
+2026-05-02 23:18:20,480 [INFO] [2026-01-10 13:00:00] Tur 1 | 43,924 MWh | %35.0 yesil | 10,648 MWh ruzgar
+2026-05-02 23:18:50,502 [INFO] [2026-01-10 23:00:00] Tur 1 | 39,211 MWh | %27.1 yesil | 10,609 MWh ruzgar
+2026-05-02 23:19:20,521 [INFO] [2026-01-11 09:00:00] Tur 1 | 34,024 MWh | %24.6 yesil | 7,241 MWh ruzgar
+2026-05-02 23:19:50,546 [INFO] [2026-01-11 19:00:00] Tur 1 | 42,859 MWh | %19.1 yesil | 8,148 MWh ruzgar
+2026-05-02 23:20:20,566 [INFO] [2026-01-12 05:00:00] Tur 1 | 32,147 MWh | %21.9 yesil | 7,011 MWh ruzgar
+2026-05-02 23:20:50,587 [INFO] [2026-01-12 15:00:00] Tur 1 | 52,056 MWh | %13.8 yesil | 6,547 MWh ruzgar
+2026-05-02 23:21:20,608 [INFO] [2026-01-13 01:00:00] Tur 1 | 37,454 MWh | %15.2 yesil | 5,671 MWh ruzgar
+2026-05-02 23:21:50,629 [INFO] [2026-01-13 11:00:00] Tur 1 | 52,034 MWh | %8.7 yesil | 3,109 MWh ruzgar
+2026-05-02 23:22:20,650 [INFO] [2026-01-13 21:00:00] Tur 1 | 47,240 MWh | %6.6 yesil | 3,122 MWh ruzgar
+2026-05-02 23:22:50,672 [INFO] [2026-01-14 07:00:00] Tur 1 | 40,782 MWh | %7.8 yesil | 3,141 MWh ruzgar
+2026-05-02 23:23:20,691 [INFO] [2026-01-14 17:00:00] Tur 1 | 51,739 MWh | %4.4 yesil | 2,158 MWh ruzgar
+2026-05-02 23:23:50,713 [INFO] [2026-01-15 03:00:00] Tur 1 | 35,946 MWh | %9.5 yesil | 3,392 MWh ruzgar
+2026-05-02 23:24:20,734 [INFO] [2026-01-15 13:00:00] Tur 1 | 49,293 MWh | %12.8 yesil | 3,229 MWh ruzgar
+2026-05-02 23:24:50,757 [INFO] [2026-01-15 23:00:00] Tur 1 | 42,863 MWh | %4.0 yesil | 1,707 MWh ruzgar
+2026-05-02 23:25:20,780 [INFO] [2026-01-16 09:00:00] Tur 1 | 49,519 MWh | %4.6 yesil | 1,002 MWh ruzgar
+2026-05-02 23:25:50,800 [INFO] [2026-01-16 19:00:00] Tur 1 | 48,790 MWh | %10.2 yesil | 4,964 MWh ruzgar
+2026-05-02 23:26:20,822 [INFO] [2026-01-17 05:00:00] Tur 1 | 34,851 MWh | %22.3 yesil | 7,734 MWh ruzgar
+2026-05-02 23:26:50,846 [INFO] [2026-01-17 15:00:00] Tur 1 | 46,281 MWh | %21.4 yesil | 7,602 MWh ruzgar
+2026-05-02 23:27:20,867 [INFO] [2026-01-18 01:00:00] Tur 1 | 36,772 MWh | %22.2 yesil | 8,145 MWh ruzgar
+2026-05-02 23:27:50,887 [INFO] [2026-01-18 11:00:00] Tur 1 | 39,017 MWh | %32.1 yesil | 8,458 MWh ruzgar
+2026-05-02 23:28:20,909 [INFO] [2026-01-18 21:00:00] Tur 1 | 42,651 MWh | %21.2 yesil | 9,010 MWh ruzgar
+2026-05-02 23:28:50,930 [INFO] [2026-01-19 07:00:00] Tur 1 | 38,346 MWh | %21.7 yesil | 8,230 MWh ruzgar
+2026-05-02 23:29:20,950 [INFO] [2026-01-19 17:00:00] Tur 1 | 53,049 MWh | %17.0 yesil | 8,771 MWh ruzgar
+2026-05-02 23:29:50,971 [INFO] [2026-01-20 03:00:00] Tur 1 | 36,603 MWh | %22.0 yesil | 8,022 MWh ruzgar
+2026-05-02 23:30:20,994 [INFO] [2026-01-20 13:00:00] Tur 1 | 50,545 MWh | %21.8 yesil | 6,857 MWh ruzgar
+2026-05-02 23:30:51,017 [INFO] [2026-01-20 23:00:00] Tur 1 | 44,296 MWh | %12.0 yesil | 5,309 MWh ruzgar
+2026-05-02 23:31:21,040 [INFO] [2026-01-21 09:00:00] Tur 1 | 50,836 MWh | %11.2 yesil | 4,278 MWh ruzgar
+2026-05-02 23:31:51,064 [INFO] [2026-01-21 19:00:00] Tur 1 | 50,737 MWh | %12.3 yesil | 6,221 MWh ruzgar
+2026-05-02 23:32:21,086 [INFO] [2026-01-22 05:00:00] Tur 1 | 35,891 MWh | %24.3 yesil | 8,693 MWh ruzgar
+2026-05-02 23:32:51,108 [INFO] [2026-01-22 15:00:00] Tur 1 | 53,050 MWh | %13.6 yesil | 6,716 MWh ruzgar
+2026-05-02 23:33:21,130 [INFO] [2026-01-23 01:00:00] Tur 1 | 38,489 MWh | %14.1 yesil | 5,404 MWh ruzgar
+2026-05-02 23:33:51,154 [INFO] [2026-01-23 11:00:00] Tur 1 | 50,993 MWh | %11.3 yesil | 3,952 MWh ruzgar
+2026-05-02 23:34:21,175 [INFO] [2026-01-23 21:00:00] Tur 1 | 45,304 MWh | %8.5 yesil | 3,855 MWh ruzgar
+2026-05-02 23:34:51,198 [INFO] [2026-01-24 07:00:00] Tur 1 | 36,532 MWh | %6.4 yesil | 2,330 MWh ruzgar
+2026-05-02 23:35:21,219 [INFO] [2026-01-24 17:00:00] Tur 1 | 45,909 MWh | %4.1 yesil | 1,771 MWh ruzgar
+2026-05-02 23:35:51,241 [INFO] [2026-01-25 03:00:00] Tur 1 | 33,224 MWh | %14.4 yesil | 4,778 MWh ruzgar
+2026-05-02 23:36:21,265 [INFO] [2026-01-25 13:00:00] Tur 1 | 37,695 MWh | %28.5 yesil | 5,660 MWh ruzgar
+2026-05-02 23:36:51,288 [INFO] [2026-01-25 23:00:00] Tur 1 | 37,904 MWh | %18.5 yesil | 6,992 MWh ruzgar
+2026-05-02 23:37:21,307 [INFO] [2026-01-26 09:00:00] Tur 1 | 46,510 MWh | %22.3 yesil | 7,741 MWh ruzgar
+2026-05-02 23:37:51,329 [INFO] [2026-01-26 19:00:00] Tur 1 | 46,943 MWh | %22.2 yesil | 10,389 MWh ruzgar
+2026-05-02 23:38:21,359 [INFO] [2026-01-27 05:00:00] Tur 1 | 34,294 MWh | %33.6 yesil | 11,493 MWh ruzgar
+2026-05-02 23:38:51,383 [INFO] [2026-01-27 15:00:00] Tur 1 | 47,810 MWh | %20.5 yesil | 8,333 MWh ruzgar
+2026-05-02 23:39:21,403 [INFO] [2026-01-28 01:00:00] Tur 1 | 36,865 MWh | %10.9 yesil | 4,005 MWh ruzgar
+2026-05-02 23:39:51,425 [INFO] [2026-01-28 11:00:00] Tur 1 | 48,368 MWh | %10.2 yesil | 2,901 MWh ruzgar
+2026-05-02 23:40:21,447 [INFO] [2026-01-28 21:00:00] Tur 1 | 44,758 MWh | %18.9 yesil | 8,439 MWh ruzgar
+2026-05-02 23:40:51,469 [INFO] [2026-01-29 07:00:00] Tur 1 | 37,407 MWh | %27.0 yesil | 10,014 MWh ruzgar
+2026-05-02 23:41:21,492 [INFO] [2026-01-29 17:00:00] Tur 1 | 48,127 MWh | %23.0 yesil | 10,883 MWh ruzgar
+2026-05-02 23:41:51,517 [INFO] [2026-01-30 03:00:00] Tur 1 | 33,944 MWh | %30.0 yesil | 10,135 MWh ruzgar
+2026-05-02 23:42:21,540 [INFO] [2026-01-30 13:00:00] Tur 1 | 46,565 MWh | %23.6 yesil | 8,762 MWh ruzgar
+2026-05-02 23:42:51,565 [INFO] [2026-01-30 23:00:00] Tur 1 | 40,389 MWh | %10.5 yesil | 4,229 MWh ruzgar
+2026-05-02 23:43:21,589 [INFO] [2026-01-31 09:00:00] Tur 1 | 41,124 MWh | %14.3 yesil | 5,331 MWh ruzgar
+2026-05-02 23:43:51,609 [INFO] [2026-01-31 19:00:00] Tur 1 | 44,899 MWh | %14.5 yesil | 6,494 MWh ruzgar
+2026-05-02 23:44:21,630 [INFO] [2026-02-01 02:00:00] Tur 1 | 33,190 MWh | %13.3 yesil | 4,378 MWh ruzgar
+2026-05-02 23:44:51,652 [INFO] [2026-02-01 07:00:00] Tur 1 | 31,422 MWh | %19.1 yesil | 5,917 MWh ruzgar
+2026-05-02 23:45:21,673 [INFO] [2026-02-01 12:00:00] Tur 1 | 36,958 MWh | %35.8 yesil | 8,284 MWh ruzgar
+2026-05-02 23:45:51,695 [INFO] [2026-02-01 17:00:00] Tur 1 | 39,896 MWh | %23.5 yesil | 9,054 MWh ruzgar
+2026-05-02 23:46:21,717 [INFO] [2026-02-01 22:00:00] Tur 1 | 38,421 MWh | %18.8 yesil | 7,188 MWh ruzgar
+2026-05-02 23:46:51,740 [INFO] [2026-02-02 07:00:00] Tur 1 | 36,318 MWh | %22.0 yesil | 7,905 MWh ruzgar
+2026-05-02 23:47:21,762 [INFO] [2026-02-02 17:00:00] Tur 1 | 49,159 MWh | %16.1 yesil | 7,728 MWh ruzgar
+2026-05-02 23:47:51,788 [INFO] [2026-02-03 03:00:00] Tur 1 | 34,117 MWh | %8.0 yesil | 2,720 MWh ruzgar
+2026-05-02 23:48:21,810 [INFO] [2026-02-03 13:00:00] Tur 1 | 47,544 MWh | %8.2 yesil | 1,806 MWh ruzgar
+2026-05-02 23:48:51,831 [INFO] [2026-02-03 23:00:00] Tur 1 | 40,858 MWh | %4.4 yesil | 1,790 MWh ruzgar
+2026-05-02 23:49:21,854 [INFO] [2026-02-04 09:00:00] Tur 1 | 47,786 MWh | %11.5 yesil | 2,745 MWh ruzgar
+2026-05-02 23:49:51,877 [INFO] [2026-02-04 19:00:00] Tur 1 | 47,228 MWh | %7.2 yesil | 3,390 MWh ruzgar
+2026-05-02 23:50:10,147 [INFO] Akilli Sebeke Canli Veri Botu Baslatildi
+2026-05-02 23:50:10,147 [INFO] Mod: HACKATHON | Bekleme: 3s/saat | Dongu: True
+2026-05-02 23:50:10,147 [INFO] Gecmis CSV'ler okunuyor...
+2026-05-02 23:50:10,269 [INFO] 4392 saatlik veri hazirland. Aralik: 2025-11-01 00:00:00 -> 2026-05-01 23:00:00
+2026-05-02 23:50:10,269 [INFO] Eski canli_veri.csv silindi.
+2026-05-02 23:50:10,273 [INFO] Ilk 24 saatlik taban veri panele yuklendi.
+2026-05-02 23:50:10,273 [INFO] CANLI YAYIN BASLIYOR...
+2026-05-02 23:50:21,897 [INFO] [2026-02-05 05:00:00] Tur 1 | 34,038 MWh | %23.7 yesil | 8,020 MWh ruzgar
+2026-05-02 23:50:30,257 [INFO] Akilli Sebeke Canli Veri Botu Baslatildi
+2026-05-02 23:50:30,257 [INFO] Mod: HACKATHON | Bekleme: 3s/saat | Dongu: True
+2026-05-02 23:50:30,257 [INFO] Gecmis CSV'ler okunuyor...
+2026-05-02 23:50:30,349 [INFO] 4392 saatlik veri hazirland. Aralik: 2025-11-01 00:00:00 -> 2026-05-01 23:00:00
+2026-05-02 23:50:30,350 [INFO] Eski canli_veri.csv silindi.
+2026-05-02 23:50:30,353 [INFO] Ilk 24 saatlik taban veri panele yuklendi.
+2026-05-02 23:50:30,353 [INFO] CANLI YAYIN BASLIYOR...
+2026-05-02 23:51:41,323 [INFO] Akilli Sebeke Canli Veri Botu Baslatildi
+2026-05-02 23:51:41,323 [INFO] Mod: HACKATHON | Bekleme: 3s/saat | Dongu: True
+2026-05-02 23:51:41,325 [INFO] Gecmis CSV'ler okunuyor...
+2026-05-02 23:51:41,403 [INFO] 4392 saatlik veri hazirland. Aralik: 2025-11-01 00:00:00 -> 2026-05-01 23:00:00
+2026-05-02 23:51:41,403 [INFO] Eski canli_veri.csv silindi.
+2026-05-02 23:51:41,406 [INFO] Ilk 24 saatlik taban veri panele yuklendi.
+2026-05-02 23:51:41,406 [INFO] CANLI YAYIN BASLIYOR...
+2026-05-02 23:51:56,628 [INFO] Akilli Sebeke Canli Veri Botu Baslatildi
+2026-05-02 23:51:56,628 [INFO] Mod: HACKATHON | Bekleme: 3s/saat | Dongu: True
+2026-05-02 23:51:56,628 [INFO] Gecmis CSV'ler okunuyor...
+2026-05-02 23:51:56,706 [INFO] 4392 saatlik veri hazirland. Aralik: 2025-11-01 00:00:00 -> 2026-05-01 23:00:00
+2026-05-02 23:51:56,707 [INFO] Eski canli_veri.csv silindi.
+2026-05-02 23:51:56,710 [INFO] Ilk 24 saatlik taban veri panele yuklendi.
+2026-05-02 23:51:56,710 [INFO] CANLI YAYIN BASLIYOR...
+2026-05-02 23:52:23,738 [INFO] [2025-11-02 09:00:00] Tur 1 | 30,347 MWh | %18.5 yesil | 1,710 MWh ruzgar
+2026-05-02 23:52:53,761 [INFO] [2025-11-02 19:00:00] Tur 1 | 37,827 MWh | %4.3 yesil | 1,628 MWh ruzgar
+2026-05-02 23:53:23,782 [INFO] [2025-11-03 05:00:00] Tur 1 | 28,878 MWh | %4.0 yesil | 1,144 MWh ruzgar
+2026-05-02 23:57:17,053 [INFO] Akilli Sebeke Canli Veri Botu Baslatildi
+2026-05-02 23:57:17,053 [INFO] Mod: HACKATHON | Bekleme: 3s/saat | Dongu: True
+2026-05-02 23:57:17,053 [INFO] Gecmis CSV'ler okunuyor...
+2026-05-02 23:57:17,145 [INFO] 4392 saatlik veri hazirland. Aralik: 2025-11-01 00:00:00 -> 2026-05-01 23:00:00
+2026-05-02 23:57:17,146 [INFO] Eski canli_veri.csv silindi.
+2026-05-02 23:57:17,149 [INFO] Ilk 24 saatlik taban veri panele yuklendi.
+2026-05-02 23:57:17,149 [INFO] CANLI YAYIN BASLIYOR...
+2026-05-02 23:57:44,175 [INFO] [2025-11-02 09:00:00] Tur 1 | 30,347 MWh | %18.5 yesil | 1,710 MWh ruzgar
+2026-05-02 23:58:14,198 [INFO] [2025-11-02 19:00:00] Tur 1 | 37,827 MWh | %4.3 yesil | 1,628 MWh ruzgar
+2026-05-02 23:58:44,218 [INFO] [2025-11-03 05:00:00] Tur 1 | 28,878 MWh | %4.0 yesil | 1,144 MWh ruzgar
+2026-05-02 23:59:14,242 [INFO] [2025-11-03 15:00:00] Tur 1 | 41,470 MWh | %6.3 yesil | 758 MWh ruzgar
+2026-05-02 23:59:44,265 [INFO] [2025-11-04 01:00:00] Tur 1 | 32,906 MWh | %3.5 yesil | 1,166 MWh ruzgar
+2026-05-03 00:00:14,286 [INFO] [2025-11-04 11:00:00] Tur 1 | 41,728 MWh | %9.1 yesil | 303 MWh ruzgar
+2026-05-03 00:00:44,307 [INFO] [2025-11-04 21:00:00] Tur 1 | 40,578 MWh | %8.2 yesil | 3,340 MWh ruzgar
+2026-05-03 00:01:14,330 [INFO] [2025-11-05 07:00:00] Tur 1 | 34,915 MWh | %14.9 yesil | 4,817 MWh ruzgar
+2026-05-03 00:01:44,351 [INFO] [2025-11-05 17:00:00] Tur 1 | 44,331 MWh | %13.4 yesil | 5,804 MWh ruzgar
+2026-05-03 00:02:14,374 [INFO] [2025-11-06 03:00:00] Tur 1 | 31,578 MWh | %19.7 yesil | 6,213 MWh ruzgar
+2026-05-03 00:02:44,396 [INFO] [2025-11-06 13:00:00] Tur 1 | 41,272 MWh | %19.8 yesil | 4,460 MWh ruzgar
+2026-05-03 00:03:14,418 [INFO] [2025-11-06 23:00:00] Tur 1 | 37,049 MWh | %12.5 yesil | 4,622 MWh ruzgar
+2026-05-03 00:03:44,442 [INFO] [2025-11-07 09:00:00] Tur 1 | 41,389 MWh | %13.4 yesil | 3,456 MWh ruzgar
+2026-05-03 00:04:14,467 [INFO] [2025-11-07 19:00:00] Tur 1 | 42,694 MWh | %4.8 yesil | 2,041 MWh ruzgar
+2026-05-03 00:04:44,488 [INFO] [2025-11-08 05:00:00] Tur 1 | 30,921 MWh | %4.9 yesil | 1,517 MWh ruzgar
+2026-05-03 00:05:14,511 [INFO] [2025-11-08 15:00:00] Tur 1 | 38,555 MWh | %12.4 yesil | 2,067 MWh ruzgar
+2026-05-03 00:05:44,534 [INFO] [2025-11-09 01:00:00] Tur 1 | 31,569 MWh | %12.2 yesil | 3,861 MWh ruzgar
+2026-05-03 00:06:14,557 [INFO] [2025-11-09 11:00:00] Tur 1 | 32,378 MWh | %22.0 yesil | 2,210 MWh ruzgar
+2026-05-03 00:06:44,579 [INFO] [2025-11-09 21:00:00] Tur 1 | 35,339 MWh | %3.6 yesil | 1,265 MWh ruzgar
+2026-05-03 00:07:14,604 [INFO] [2025-11-10 07:00:00] Tur 1 | 32,197 MWh | %10.5 yesil | 3,154 MWh ruzgar
+2026-05-03 00:07:44,627 [INFO] [2025-11-10 17:00:00] Tur 1 | 44,038 MWh | %7.6 yesil | 3,259 MWh ruzgar
+2026-05-03 00:08:14,649 [INFO] [2025-11-11 03:00:00] Tur 1 | 31,534 MWh | %17.2 yesil | 5,402 MWh ruzgar
+2026-05-03 00:08:44,673 [INFO] [2025-11-11 13:00:00] Tur 1 | 42,255 MWh | %17.6 yesil | 4,149 MWh ruzgar
+2026-05-03 00:09:14,696 [INFO] [2025-11-11 23:00:00] Tur 1 | 36,999 MWh | %8.5 yesil | 3,144 MWh ruzgar
+2026-05-03 00:09:44,719 [INFO] [2025-11-12 09:00:00] Tur 1 | 41,558 MWh | %9.7 yesil | 2,095 MWh ruzgar
+2026-05-03 00:10:14,742 [INFO] [2025-11-12 19:00:00] Tur 1 | 43,276 MWh | %5.8 yesil | 2,511 MWh ruzgar
+2026-05-03 00:10:44,764 [INFO] [2025-11-13 05:00:00] Tur 1 | 31,921 MWh | %8.6 yesil | 2,755 MWh ruzgar
+2026-05-03 00:11:14,786 [INFO] [2025-11-13 15:00:00] Tur 1 | 43,468 MWh | %10.7 yesil | 3,110 MWh ruzgar
+2026-05-03 00:11:44,808 [INFO] [2025-11-14 01:00:00] Tur 1 | 34,070 MWh | %9.1 yesil | 3,082 MWh ruzgar
+2026-05-03 00:12:14,830 [INFO] [2025-11-14 11:00:00] Tur 1 | 43,576 MWh | %13.4 yesil | 2,856 MWh ruzgar
+2026-05-03 00:12:44,852 [INFO] [2025-11-14 21:00:00] Tur 1 | 40,918 MWh | %10.8 yesil | 4,420 MWh ruzgar
+2026-05-03 00:13:14,873 [INFO] [2025-11-15 07:00:00] Tur 1 | 33,009 MWh | %12.9 yesil | 4,172 MWh ruzgar
+2026-05-03 00:13:44,895 [INFO] [2025-11-15 17:00:00] Tur 1 | 41,928 MWh | %5.8 yesil | 2,355 MWh ruzgar
+2026-05-03 00:14:14,918 [INFO] [2025-11-16 03:00:00] Tur 1 | 30,397 MWh | %6.0 yesil | 1,806 MWh ruzgar
+2026-05-03 00:14:44,940 [INFO] [2025-11-16 13:00:00] Tur 1 | 34,100 MWh | %16.5 yesil | 1,387 MWh ruzgar
+2026-05-03 00:15:14,962 [INFO] [2025-11-16 23:00:00] Tur 1 | 34,938 MWh | %10.2 yesil | 3,557 MWh ruzgar
+2026-05-03 00:15:44,985 [INFO] [2025-11-17 09:00:00] Tur 1 | 42,496 MWh | %24.9 yesil | 6,618 MWh ruzgar
+2026-05-03 00:16:15,005 [INFO] [2025-11-17 19:00:00] Tur 1 | 43,979 MWh | %18.5 yesil | 8,128 MWh ruzgar
+2026-05-03 00:16:45,028 [INFO] [2025-11-18 05:00:00] Tur 1 | 32,455 MWh | %26.6 yesil | 8,603 MWh ruzgar
+2026-05-03 00:17:15,051 [INFO] [2025-11-18 15:00:00] Tur 1 | 42,171 MWh | %24.4 yesil | 6,940 MWh ruzgar
+2026-05-03 00:17:45,073 [INFO] [2025-11-19 01:00:00] Tur 1 | 33,945 MWh | %22.7 yesil | 7,687 MWh ruzgar
+2026-05-03 00:18:15,097 [INFO] [2025-11-19 11:00:00] Tur 1 | 43,509 MWh | %25.4 yesil | 6,039 MWh ruzgar
+2026-05-03 00:18:45,119 [INFO] [2025-11-19 21:00:00] Tur 1 | 41,672 MWh | %14.6 yesil | 6,059 MWh ruzgar
+2026-05-03 00:19:15,140 [INFO] [2025-11-20 07:00:00] Tur 1 | 36,373 MWh | %20.1 yesil | 7,066 MWh ruzgar
+2026-05-03 00:19:45,164 [INFO] [2025-11-20 17:00:00] Tur 1 | 45,251 MWh | %13.8 yesil | 6,130 MWh ruzgar
+2026-05-03 00:20:15,186 [INFO] [2025-11-21 03:00:00] Tur 1 | 32,288 MWh | %24.5 yesil | 7,893 MWh ruzgar
+2026-05-03 00:20:45,208 [INFO] [2025-11-21 13:00:00] Tur 1 | 40,257 MWh | %34.0 yesil | 7,695 MWh ruzgar
+2026-05-03 00:21:15,231 [INFO] [2025-11-21 23:00:00] Tur 1 | 38,005 MWh | %17.3 yesil | 6,543 MWh ruzgar
+2026-05-03 00:21:45,253 [INFO] [2025-11-22 09:00:00] Tur 1 | 38,632 MWh | %27.1 yesil | 7,267 MWh ruzgar
+2026-05-03 00:22:15,275 [INFO] [2025-11-22 19:00:00] Tur 1 | 41,426 MWh | %13.7 yesil | 5,663 MWh ruzgar
+2026-05-03 00:22:45,297 [INFO] [2025-11-23 05:00:00] Tur 1 | 29,722 MWh | %22.9 yesil | 6,783 MWh ruzgar
+2026-05-03 00:23:15,319 [INFO] [2025-11-23 15:00:00] Tur 1 | 34,386 MWh | %32.6 yesil | 8,044 MWh ruzgar
+2026-05-03 00:23:45,339 [INFO] [2025-11-24 01:00:00] Tur 1 | 30,875 MWh | %13.4 yesil | 4,127 MWh ruzgar
+2026-05-03 00:24:15,362 [INFO] [2025-11-24 11:00:00] Tur 1 | 43,429 MWh | %11.8 yesil | 2,578 MWh ruzgar
+2026-05-03 00:24:45,384 [INFO] [2025-11-24 21:00:00] Tur 1 | 42,022 MWh | %3.7 yesil | 1,569 MWh ruzgar
+2026-05-03 00:25:15,406 [INFO] [2025-11-25 07:00:00] Tur 1 | 36,626 MWh | %7.3 yesil | 2,588 MWh ruzgar
+2026-05-03 00:25:45,428 [INFO] [2025-11-25 17:00:00] Tur 1 | 46,612 MWh | %6.3 yesil | 2,896 MWh ruzgar
+2026-05-03 00:26:15,451 [INFO] [2025-11-26 03:00:00] Tur 1 | 32,376 MWh | %20.6 yesil | 6,660 MWh ruzgar
+2026-05-03 00:26:45,471 [INFO] [2025-11-26 13:00:00] Tur 1 | 42,304 MWh | %28.1 yesil | 7,164 MWh ruzgar
+2026-05-03 00:27:15,492 [INFO] [2025-11-26 23:00:00] Tur 1 | 38,702 MWh | %17.9 yesil | 6,905 MWh ruzgar
+2026-05-03 00:27:45,513 [INFO] [2025-11-27 09:00:00] Tur 1 | 43,530 MWh | %23.5 yesil | 7,148 MWh ruzgar
+2026-05-03 00:28:15,534 [INFO] [2025-11-27 19:00:00] Tur 1 | 44,864 MWh | %11.0 yesil | 4,912 MWh ruzgar
+2026-05-03 00:28:45,556 [INFO] [2025-11-28 05:00:00] Tur 1 | 33,001 MWh | %13.1 yesil | 4,314 MWh ruzgar
+2026-05-03 00:29:15,578 [INFO] [2025-11-28 15:00:00] Tur 1 | 43,154 MWh | %12.5 yesil | 3,783 MWh ruzgar
+2026-05-03 00:29:45,601 [INFO] [2025-11-29 01:00:00] Tur 1 | 34,408 MWh | %16.2 yesil | 5,564 MWh ruzgar
+2026-05-03 00:30:15,622 [INFO] [2025-11-29 11:00:00] Tur 1 | 41,535 MWh | %22.3 yesil | 5,601 MWh ruzgar
+2026-05-03 00:30:45,644 [INFO] [2025-11-29 21:00:00] Tur 1 | 40,416 MWh | %13.4 yesil | 5,405 MWh ruzgar
+2026-05-03 00:31:15,665 [INFO] [2025-11-30 07:00:00] Tur 1 | 29,953 MWh | %10.9 yesil | 3,193 MWh ruzgar
+2026-05-03 00:31:45,688 [INFO] [2025-11-30 17:00:00] Tur 1 | 39,663 MWh | %5.9 yesil | 2,317 MWh ruzgar
+2026-05-03 00:32:15,711 [INFO] [2025-12-01 03:00:00] Tur 1 | 29,853 MWh | %7.1 yesil | 2,120 MWh ruzgar
+2026-05-03 00:32:45,733 [INFO] [2025-12-01 13:00:00] Tur 1 | 43,874 MWh | %8.6 yesil | 984 MWh ruzgar
+2026-05-03 00:33:15,755 [INFO] [2025-12-01 23:00:00] Tur 1 | 39,617 MWh | %1.6 yesil | 650 MWh ruzgar
+2026-05-03 00:33:45,776 [INFO] [2025-12-02 09:00:00] Tur 1 | 45,300 MWh | %5.5 yesil | 460 MWh ruzgar
+2026-05-03 00:34:15,798 [INFO] [2025-12-02 19:00:00] Tur 1 | 46,335 MWh | %0.7 yesil | 305 MWh ruzgar
+2026-05-03 00:34:45,821 [INFO] [2025-12-03 05:00:00] Tur 1 | 33,516 MWh | %1.9 yesil | 637 MWh ruzgar
+2026-05-03 00:35:15,844 [INFO] [2025-12-03 15:00:00] Tur 1 | 44,757 MWh | %5.3 yesil | 441 MWh ruzgar
+2026-05-03 00:35:45,868 [INFO] [2025-12-04 01:00:00] Tur 1 | 35,672 MWh | %5.5 yesil | 1,943 MWh ruzgar
+2026-05-03 00:36:15,890 [INFO] [2025-12-04 11:00:00] Tur 1 | 46,612 MWh | %11.1 yesil | 2,922 MWh ruzgar
+2026-05-03 00:36:45,913 [INFO] [2025-12-04 21:00:00] Tur 1 | 43,873 MWh | %10.3 yesil | 4,515 MWh ruzgar
+2026-05-03 00:37:15,935 [INFO] [2025-12-05 07:00:00] Tur 1 | 37,849 MWh | %17.5 yesil | 6,552 MWh ruzgar
+2026-05-03 00:37:45,956 [INFO] [2025-12-05 17:00:00] Tur 1 | 48,636 MWh | %19.1 yesil | 9,236 MWh ruzgar
+2026-05-03 00:38:15,977 [INFO] [2025-12-06 03:00:00] Tur 1 | 32,828 MWh | %23.7 yesil | 7,777 MWh ruzgar
+2026-05-03 00:38:46,000 [INFO] [2025-12-06 13:00:00] Tur 1 | 43,064 MWh | %12.2 yesil | 3,959 MWh ruzgar
+2026-05-03 00:39:16,022 [INFO] [2025-12-06 23:00:00] Tur 1 | 37,722 MWh | %16.8 yesil | 6,330 MWh ruzgar
+2026-05-03 00:39:46,043 [INFO] [2025-12-07 09:00:00] Tur 1 | 32,458 MWh | %21.5 yesil | 5,779 MWh ruzgar
+2026-05-03 00:40:16,065 [INFO] [2025-12-07 19:00:00] Tur 1 | 40,869 MWh | %12.0 yesil | 4,910 MWh ruzgar
+2026-05-03 00:40:46,086 [INFO] [2025-12-08 05:00:00] Tur 1 | 30,548 MWh | %13.6 yesil | 4,147 MWh ruzgar
+2026-05-03 00:41:16,110 [INFO] [2025-12-08 15:00:00] Tur 1 | 46,898 MWh | %14.4 yesil | 6,018 MWh ruzgar
+2026-05-03 00:41:46,133 [INFO] [2025-12-09 01:00:00] Tur 1 | 35,443 MWh | %21.3 yesil | 7,554 MWh ruzgar
+2026-05-03 00:42:16,156 [INFO] [2025-12-09 11:00:00] Tur 1 | 47,504 MWh | %18.2 yesil | 6,974 MWh ruzgar
+2026-05-03 00:42:46,180 [INFO] [2025-12-09 21:00:00] Tur 1 | 43,525 MWh | %13.3 yesil | 5,760 MWh ruzgar
+2026-05-03 00:43:16,201 [INFO] [2025-12-10 07:00:00] Tur 1 | 38,736 MWh | %9.1 yesil | 3,490 MWh ruzgar
+2026-05-03 00:43:46,223 [INFO] [2025-12-10 17:00:00] Tur 1 | 48,621 MWh | %4.4 yesil | 2,118 MWh ruzgar
+2026-05-03 00:44:16,246 [INFO] [2025-12-11 03:00:00] Tur 1 | 33,565 MWh | %11.9 yesil | 3,986 MWh ruzgar
+2026-05-03 00:44:46,268 [INFO] [2025-12-11 13:00:00] Tur 1 | 45,938 MWh | %11.6 yesil | 3,635 MWh ruzgar
+2026-05-03 00:45:16,289 [INFO] [2025-12-11 23:00:00] Tur 1 | 38,816 MWh | %7.1 yesil | 2,752 MWh ruzgar
+2026-05-03 00:45:46,313 [INFO] [2025-12-12 09:00:00] Tur 1 | 46,580 MWh | %5.4 yesil | 1,479 MWh ruzgar
+2026-05-03 00:46:16,334 [INFO] [2025-12-12 19:00:00] Tur 1 | 46,430 MWh | %4.5 yesil | 2,102 MWh ruzgar
+2026-05-03 00:46:46,356 [INFO] [2025-12-13 05:00:00] Tur 1 | 33,285 MWh | %16.0 yesil | 5,325 MWh ruzgar
+2026-05-03 00:47:16,380 [INFO] [2025-12-13 15:00:00] Tur 1 | 42,000 MWh | %18.7 yesil | 5,549 MWh ruzgar
+2026-05-03 00:47:46,401 [INFO] [2025-12-14 01:00:00] Tur 1 | 34,570 MWh | %14.0 yesil | 4,816 MWh ruzgar
+2026-05-03 00:48:16,423 [INFO] [2025-12-14 11:00:00] Tur 1 | 35,369 MWh | %14.9 yesil | 1,773 MWh ruzgar
+2026-05-03 00:48:46,445 [INFO] [2025-12-14 21:00:00] Tur 1 | 40,249 MWh | %5.6 yesil | 2,229 MWh ruzgar
+2026-05-03 00:49:16,467 [INFO] [2025-12-15 07:00:00] Tur 1 | 36,954 MWh | %15.7 yesil | 5,759 MWh ruzgar
+2026-05-03 00:49:46,489 [INFO] [2025-12-15 17:00:00] Tur 1 | 49,941 MWh | %10.9 yesil | 5,366 MWh ruzgar
+2026-05-03 00:50:16,514 [INFO] [2025-12-16 03:00:00] Tur 1 | 34,207 MWh | %12.5 yesil | 4,281 MWh ruzgar
+2026-05-03 00:50:46,537 [INFO] [2025-12-16 13:00:00] Tur 1 | 45,999 MWh | %14.2 yesil | 3,675 MWh ruzgar
+2026-05-03 00:51:16,558 [INFO] [2025-12-16 23:00:00] Tur 1 | 40,577 MWh | %14.8 yesil | 5,981 MWh ruzgar
+2026-05-03 00:51:46,580 [INFO] [2025-12-17 09:00:00] Tur 1 | 47,920 MWh | %13.7 yesil | 4,151 MWh ruzgar
+2026-05-03 00:52:16,601 [INFO] [2025-12-17 19:00:00] Tur 1 | 47,825 MWh | %4.5 yesil | 2,142 MWh ruzgar
+2026-05-03 00:52:46,623 [INFO] [2025-12-18 05:00:00] Tur 1 | 34,636 MWh | %3.6 yesil | 1,239 MWh ruzgar
+2026-05-03 00:53:16,646 [INFO] [2025-12-18 15:00:00] Tur 1 | 46,229 MWh | %7.1 yesil | 904 MWh ruzgar
+2026-05-03 00:53:46,668 [INFO] [2025-12-19 01:00:00] Tur 1 | 36,870 MWh | %2.9 yesil | 1,054 MWh ruzgar
+2026-05-03 00:54:16,689 [INFO] [2025-12-19 11:00:00] Tur 1 | 47,585 MWh | %9.8 yesil | 1,121 MWh ruzgar
+2026-05-03 00:54:46,711 [INFO] [2025-12-19 21:00:00] Tur 1 | 44,607 MWh | %8.3 yesil | 3,704 MWh ruzgar
+2026-05-03 00:55:16,733 [INFO] [2025-12-20 07:00:00] Tur 1 | 36,334 MWh | %11.1 yesil | 4,000 MWh ruzgar
+2026-05-03 00:55:46,754 [INFO] [2025-12-20 17:00:00] Tur 1 | 45,465 MWh | %7.4 yesil | 3,306 MWh ruzgar
+2026-05-03 00:56:16,775 [INFO] [2025-12-21 03:00:00] Tur 1 | 32,337 MWh | %9.2 yesil | 2,955 MWh ruzgar
+2026-05-03 00:56:46,799 [INFO] [2025-12-21 13:00:00] Tur 1 | 38,513 MWh | %11.6 yesil | 2,495 MWh ruzgar
+2026-05-03 00:57:16,820 [INFO] [2025-12-21 23:00:00] Tur 1 | 36,773 MWh | %11.6 yesil | 4,274 MWh ruzgar
+2026-05-03 00:57:46,843 [INFO] [2025-12-22 09:00:00] Tur 1 | 46,970 MWh | %13.1 yesil | 5,002 MWh ruzgar
+2026-05-03 00:58:16,866 [INFO] [2025-12-22 19:00:00] Tur 1 | 47,394 MWh | %14.5 yesil | 6,859 MWh ruzgar
+2026-05-03 00:58:46,888 [INFO] [2025-12-23 05:00:00] Tur 1 | 34,072 MWh | %20.2 yesil | 6,867 MWh ruzgar
+2026-05-03 00:59:16,911 [INFO] [2025-12-23 15:00:00] Tur 1 | 48,223 MWh | %9.9 yesil | 3,429 MWh ruzgar
+2026-05-03 00:59:46,936 [INFO] [2025-12-24 01:00:00] Tur 1 | 36,378 MWh | %5.3 yesil | 1,916 MWh ruzgar
+2026-05-03 01:00:16,959 [INFO] [2025-12-24 11:00:00] Tur 1 | 47,467 MWh | %7.0 yesil | 1,386 MWh ruzgar
+2026-05-03 01:00:46,982 [INFO] [2025-12-24 21:00:00] Tur 1 | 44,375 MWh | %7.4 yesil | 3,284 MWh ruzgar
+2026-05-03 01:01:17,004 [INFO] [2025-12-25 07:00:00] Tur 1 | 38,772 MWh | %8.6 yesil | 3,299 MWh ruzgar
+2026-05-03 01:01:47,025 [INFO] [2025-12-25 17:00:00] Tur 1 | 50,046 MWh | %5.7 yesil | 2,817 MWh ruzgar
+2026-05-03 01:02:17,048 [INFO] [2025-12-26 03:00:00] Tur 1 | 34,172 MWh | %17.3 yesil | 5,891 MWh ruzgar
+2026-05-03 01:02:47,069 [INFO] [2025-12-26 13:00:00] Tur 1 | 45,816 MWh | %10.4 yesil | 3,403 MWh ruzgar
+2026-05-03 01:03:17,091 [INFO] [2025-12-26 23:00:00] Tur 1 | 40,934 MWh | %8.3 yesil | 3,391 MWh ruzgar
+2026-05-03 01:03:47,115 [INFO] [2025-12-27 09:00:00] Tur 1 | 42,579 MWh | %19.0 yesil | 7,537 MWh ruzgar
+2026-05-03 01:04:17,137 [INFO] [2025-12-27 19:00:00] Tur 1 | 46,109 MWh | %14.0 yesil | 6,424 MWh ruzgar
+2026-05-03 01:04:47,160 [INFO] [2025-12-28 05:00:00] Tur 1 | 32,174 MWh | %17.6 yesil | 5,633 MWh ruzgar
+2026-05-03 01:05:17,181 [INFO] [2025-12-28 15:00:00] Tur 1 | 39,780 MWh | %23.9 yesil | 6,353 MWh ruzgar
+2026-05-03 01:05:47,203 [INFO] [2025-12-29 01:00:00] Tur 1 | 34,054 MWh | %21.2 yesil | 7,206 MWh ruzgar
+2026-05-03 01:06:17,226 [INFO] [2025-12-29 11:00:00] Tur 1 | 49,583 MWh | %12.4 yesil | 3,788 MWh ruzgar
+2026-05-03 01:06:47,248 [INFO] [2025-12-29 21:00:00] Tur 1 | 45,574 MWh | %13.6 yesil | 6,207 MWh ruzgar
+2026-05-03 01:07:17,272 [INFO] [2025-12-30 07:00:00] Tur 1 | 38,946 MWh | %21.6 yesil | 8,336 MWh ruzgar
+2026-05-03 01:07:47,292 [INFO] [2025-12-30 17:00:00] Tur 1 | 50,160 MWh | %19.2 yesil | 9,537 MWh ruzgar
+2026-05-03 01:08:17,316 [INFO] [2025-12-31 03:00:00] Tur 1 | 33,462 MWh | %28.4 yesil | 9,480 MWh ruzgar
+2026-05-03 01:08:47,337 [INFO] [2025-12-31 13:00:00] Tur 1 | 48,188 MWh | %16.6 yesil | 7,112 MWh ruzgar
+2026-05-03 01:09:17,360 [INFO] [2025-12-31 23:00:00] Tur 1 | 35,515 MWh | %8.7 yesil | 3,091 MWh ruzgar
+2026-05-03 01:09:47,382 [INFO] [2026-01-01 09:00:00] Tur 1 | 32,317 MWh | %19.6 yesil | 5,867 MWh ruzgar
+2026-05-03 01:10:17,403 [INFO] [2026-01-01 19:00:00] Tur 1 | 42,704 MWh | %10.5 yesil | 4,478 MWh ruzgar
+2026-05-03 01:10:47,425 [INFO] [2026-01-02 05:00:00] Tur 1 | 31,630 MWh | %14.4 yesil | 4,546 MWh ruzgar
+2026-05-03 01:11:17,446 [INFO] [2026-01-02 15:00:00] Tur 1 | 47,524 MWh | %18.6 yesil | 5,902 MWh ruzgar
+2026-05-03 01:11:47,469 [INFO] [2026-01-03 01:00:00] Tur 1 | 36,330 MWh | %26.9 yesil | 9,760 MWh ruzgar
+2026-05-03 01:12:17,491 [INFO] [2026-01-03 11:00:00] Tur 1 | 45,903 MWh | %32.9 yesil | 10,912 MWh ruzgar
+2026-05-03 01:12:47,510 [INFO] [2026-01-03 21:00:00] Tur 1 | 42,676 MWh | %26.1 yesil | 11,120 MWh ruzgar
+2026-05-03 01:13:17,532 [INFO] [2026-01-04 07:00:00] Tur 1 | 31,855 MWh | %33.4 yesil | 10,554 MWh ruzgar
+2026-05-03 01:13:47,556 [INFO] [2026-01-04 17:00:00] Tur 1 | 41,412 MWh | %25.7 yesil | 10,524 MWh ruzgar
+2026-05-03 01:14:17,578 [INFO] [2026-01-05 03:00:00] Tur 1 | 31,504 MWh | %28.7 yesil | 9,013 MWh ruzgar
+2026-05-03 01:14:47,598 [INFO] [2026-01-05 13:00:00] Tur 1 | 46,976 MWh | %26.2 yesil | 7,528 MWh ruzgar
+2026-05-03 01:15:17,622 [INFO] [2026-01-05 23:00:00] Tur 1 | 41,133 MWh | %21.5 yesil | 8,808 MWh ruzgar
+2026-05-03 01:15:47,643 [INFO] [2026-01-06 09:00:00] Tur 1 | 46,767 MWh | %24.3 yesil | 9,230 MWh ruzgar
+2026-05-03 01:16:17,665 [INFO] [2026-01-06 19:00:00] Tur 1 | 46,909 MWh | %21.3 yesil | 9,971 MWh ruzgar
+2026-05-03 01:16:47,687 [INFO] [2026-01-07 05:00:00] Tur 1 | 34,363 MWh | %30.1 yesil | 10,312 MWh ruzgar
+2026-05-03 01:17:17,710 [INFO] [2026-01-07 15:00:00] Tur 1 | 45,739 MWh | %31.2 yesil | 11,054 MWh ruzgar
+2026-05-03 01:17:47,732 [INFO] [2026-01-08 01:00:00] Tur 1 | 36,104 MWh | %31.2 yesil | 11,246 MWh ruzgar
+2026-05-03 01:18:17,755 [INFO] [2026-01-08 11:00:00] Tur 1 | 48,652 MWh | %26.3 yesil | 10,924 MWh ruzgar
+2026-05-03 01:18:47,776 [INFO] [2026-01-08 21:00:00] Tur 1 | 44,226 MWh | %19.4 yesil | 8,573 MWh ruzgar
+2026-05-03 01:19:17,801 [INFO] [2026-01-09 07:00:00] Tur 1 | 38,840 MWh | %13.1 yesil | 5,045 MWh ruzgar
+2026-05-03 01:19:47,822 [INFO] [2026-01-09 17:00:00] Tur 1 | 49,727 MWh | %12.5 yesil | 6,116 MWh ruzgar
+2026-05-03 01:20:17,844 [INFO] [2026-01-10 03:00:00] Tur 1 | 34,318 MWh | %29.3 yesil | 10,019 MWh ruzgar
+2026-05-03 01:20:47,867 [INFO] [2026-01-10 13:00:00] Tur 1 | 43,924 MWh | %35.0 yesil | 10,648 MWh ruzgar
+2026-05-03 01:21:17,889 [INFO] [2026-01-10 23:00:00] Tur 1 | 39,211 MWh | %27.1 yesil | 10,609 MWh ruzgar
+2026-05-03 01:21:47,913 [INFO] [2026-01-11 09:00:00] Tur 1 | 34,024 MWh | %24.6 yesil | 7,241 MWh ruzgar
+2026-05-03 01:22:17,936 [INFO] [2026-01-11 19:00:00] Tur 1 | 42,859 MWh | %19.1 yesil | 8,148 MWh ruzgar
+2026-05-03 01:22:47,768 [INFO] Akilli Sebeke Canli Veri Botu Baslatildi
+2026-05-03 01:22:47,768 [INFO] Mod: HACKATHON | Bekleme: 3s/saat | Dongu: True
+2026-05-03 01:22:47,768 [INFO] Gecmis CSV'ler okunuyor...
+2026-05-03 01:22:47,862 [INFO] 4392 saatlik veri hazirland. Aralik: 2025-11-01 00:00:00 -> 2026-05-01 23:00:00
+2026-05-03 01:22:47,868 [INFO] Eski canli_veri.csv silindi.
+2026-05-03 01:22:47,872 [INFO] Ilk 24 saatlik taban veri panele yuklendi.
+2026-05-03 01:22:47,872 [INFO] CANLI YAYIN BASLIYOR...
+2026-05-03 01:23:14,901 [INFO] [2025-11-02 09:00:00] Tur 1 | 30,347 MWh | %18.5 yesil | 1,710 MWh ruzgar
+2026-05-03 01:23:44,922 [INFO] [2025-11-02 19:00:00] Tur 1 | 37,827 MWh | %4.3 yesil | 1,628 MWh ruzgar
+2026-05-03 01:24:14,946 [INFO] [2025-11-03 05:00:00] Tur 1 | 28,878 MWh | %4.0 yesil | 1,144 MWh ruzgar
+2026-05-03 01:24:44,972 [INFO] [2025-11-03 15:00:00] Tur 1 | 41,470 MWh | %6.3 yesil | 758 MWh ruzgar
+2026-05-03 01:25:14,995 [INFO] [2025-11-04 01:00:00] Tur 1 | 32,906 MWh | %3.5 yesil | 1,166 MWh ruzgar
+2026-05-03 01:25:45,018 [INFO] [2025-11-04 11:00:00] Tur 1 | 41,728 MWh | %9.1 yesil | 303 MWh ruzgar
+2026-05-03 01:26:15,041 [INFO] [2025-11-04 21:00:00] Tur 1 | 40,578 MWh | %8.2 yesil | 3,340 MWh ruzgar
+2026-05-03 01:26:45,061 [INFO] [2025-11-05 07:00:00] Tur 1 | 34,915 MWh | %14.9 yesil | 4,817 MWh ruzgar
+2026-05-03 01:27:15,083 [INFO] [2025-11-05 17:00:00] Tur 1 | 44,331 MWh | %13.4 yesil | 5,804 MWh ruzgar
+2026-05-03 01:27:45,106 [INFO] [2025-11-06 03:00:00] Tur 1 | 31,578 MWh | %19.7 yesil | 6,213 MWh ruzgar
+2026-05-03 01:28:15,129 [INFO] [2025-11-06 13:00:00] Tur 1 | 41,272 MWh | %19.8 yesil | 4,460 MWh ruzgar
+2026-05-03 01:28:45,151 [INFO] [2025-11-06 23:00:00] Tur 1 | 37,049 MWh | %12.5 yesil | 4,622 MWh ruzgar
+2026-05-03 01:29:15,174 [INFO] [2025-11-07 09:00:00] Tur 1 | 41,389 MWh | %13.4 yesil | 3,456 MWh ruzgar
+2026-05-03 01:29:45,193 [INFO] [2025-11-07 19:00:00] Tur 1 | 42,694 MWh | %4.8 yesil | 2,041 MWh ruzgar
+2026-05-03 01:30:15,215 [INFO] [2025-11-08 05:00:00] Tur 1 | 30,921 MWh | %4.9 yesil | 1,517 MWh ruzgar
+2026-05-03 01:30:45,236 [INFO] [2025-11-08 15:00:00] Tur 1 | 38,555 MWh | %12.4 yesil | 2,067 MWh ruzgar
+2026-05-03 01:31:15,259 [INFO] [2025-11-09 01:00:00] Tur 1 | 31,569 MWh | %12.2 yesil | 3,861 MWh ruzgar
+2026-05-03 01:31:45,280 [INFO] [2025-11-09 11:00:00] Tur 1 | 32,378 MWh | %22.0 yesil | 2,210 MWh ruzgar
+2026-05-03 01:32:15,303 [INFO] [2025-11-09 21:00:00] Tur 1 | 35,339 MWh | %3.6 yesil | 1,265 MWh ruzgar
+2026-05-03 01:32:45,326 [INFO] [2025-11-10 07:00:00] Tur 1 | 32,197 MWh | %10.5 yesil | 3,154 MWh ruzgar
+2026-05-03 01:33:15,348 [INFO] [2025-11-10 17:00:00] Tur 1 | 44,038 MWh | %7.6 yesil | 3,259 MWh ruzgar
+2026-05-03 01:33:45,371 [INFO] [2025-11-11 03:00:00] Tur 1 | 31,534 MWh | %17.2 yesil | 5,402 MWh ruzgar
+2026-05-03 01:34:15,394 [INFO] [2025-11-11 13:00:00] Tur 1 | 42,255 MWh | %17.6 yesil | 4,149 MWh ruzgar
+2026-05-03 01:34:45,416 [INFO] [2025-11-11 23:00:00] Tur 1 | 36,999 MWh | %8.5 yesil | 3,144 MWh ruzgar
+2026-05-03 01:35:15,440 [INFO] [2025-11-12 09:00:00] Tur 1 | 41,558 MWh | %9.7 yesil | 2,095 MWh ruzgar
+2026-05-03 01:35:45,462 [INFO] [2025-11-12 19:00:00] Tur 1 | 43,276 MWh | %5.8 yesil | 2,511 MWh ruzgar
+2026-05-03 01:36:15,484 [INFO] [2025-11-13 05:00:00] Tur 1 | 31,921 MWh | %8.6 yesil | 2,755 MWh ruzgar
+2026-05-03 01:36:45,505 [INFO] [2025-11-13 15:00:00] Tur 1 | 43,468 MWh | %10.7 yesil | 3,110 MWh ruzgar
+2026-05-03 01:37:15,527 [INFO] [2025-11-14 01:00:00] Tur 1 | 34,070 MWh | %9.1 yesil | 3,082 MWh ruzgar
+2026-05-03 01:37:45,549 [INFO] [2025-11-14 11:00:00] Tur 1 | 43,576 MWh | %13.4 yesil | 2,856 MWh ruzgar
+2026-05-03 01:38:15,570 [INFO] [2025-11-14 21:00:00] Tur 1 | 40,918 MWh | %10.8 yesil | 4,420 MWh ruzgar
+2026-05-03 01:38:45,592 [INFO] [2025-11-15 07:00:00] Tur 1 | 33,009 MWh | %12.9 yesil | 4,172 MWh ruzgar
+2026-05-03 01:39:15,614 [INFO] [2025-11-15 17:00:00] Tur 1 | 41,928 MWh | %5.8 yesil | 2,355 MWh ruzgar
+2026-05-03 01:39:45,637 [INFO] [2025-11-16 03:00:00] Tur 1 | 30,397 MWh | %6.0 yesil | 1,806 MWh ruzgar
+2026-05-03 01:40:15,661 [INFO] [2025-11-16 13:00:00] Tur 1 | 34,100 MWh | %16.5 yesil | 1,387 MWh ruzgar
+2026-05-03 01:40:45,681 [INFO] [2025-11-16 23:00:00] Tur 1 | 34,938 MWh | %10.2 yesil | 3,557 MWh ruzgar
+2026-05-03 01:41:15,705 [INFO] [2025-11-17 09:00:00] Tur 1 | 42,496 MWh | %24.9 yesil | 6,618 MWh ruzgar
+2026-05-03 01:41:45,729 [INFO] [2025-11-17 19:00:00] Tur 1 | 43,979 MWh | %18.5 yesil | 8,128 MWh ruzgar
+2026-05-03 01:42:15,751 [INFO] [2025-11-18 05:00:00] Tur 1 | 32,455 MWh | %26.6 yesil | 8,603 MWh ruzgar
+2026-05-03 01:42:45,773 [INFO] [2025-11-18 15:00:00] Tur 1 | 42,171 MWh | %24.4 yesil | 6,940 MWh ruzgar
+2026-05-03 01:43:15,796 [INFO] [2025-11-19 01:00:00] Tur 1 | 33,945 MWh | %22.7 yesil | 7,687 MWh ruzgar
+2026-05-03 01:43:45,817 [INFO] [2025-11-19 11:00:00] Tur 1 | 43,509 MWh | %25.4 yesil | 6,039 MWh ruzgar
+2026-05-03 01:44:15,840 [INFO] [2025-11-19 21:00:00] Tur 1 | 41,672 MWh | %14.6 yesil | 6,059 MWh ruzgar
+2026-05-03 01:44:45,864 [INFO] [2025-11-20 07:00:00] Tur 1 | 36,373 MWh | %20.1 yesil | 7,066 MWh ruzgar
+2026-05-03 01:45:15,886 [INFO] [2025-11-20 17:00:00] Tur 1 | 45,251 MWh | %13.8 yesil | 6,130 MWh ruzgar
+2026-05-03 01:45:45,908 [INFO] [2025-11-21 03:00:00] Tur 1 | 32,288 MWh | %24.5 yesil | 7,893 MWh ruzgar
+2026-05-03 01:46:15,931 [INFO] [2025-11-21 13:00:00] Tur 1 | 40,257 MWh | %34.0 yesil | 7,695 MWh ruzgar
+2026-05-03 01:46:45,954 [INFO] [2025-11-21 23:00:00] Tur 1 | 38,005 MWh | %17.3 yesil | 6,543 MWh ruzgar
+2026-05-03 01:47:15,975 [INFO] [2025-11-22 09:00:00] Tur 1 | 38,632 MWh | %27.1 yesil | 7,267 MWh ruzgar
+2026-05-03 01:47:45,999 [INFO] [2025-11-22 19:00:00] Tur 1 | 41,426 MWh | %13.7 yesil | 5,663 MWh ruzgar
+2026-05-03 01:48:16,021 [INFO] [2025-11-23 05:00:00] Tur 1 | 29,722 MWh | %22.9 yesil | 6,783 MWh ruzgar
+2026-05-03 01:48:46,042 [INFO] [2025-11-23 15:00:00] Tur 1 | 34,386 MWh | %32.6 yesil | 8,044 MWh ruzgar
+2026-05-03 01:49:16,063 [INFO] [2025-11-24 01:00:00] Tur 1 | 30,875 MWh | %13.4 yesil | 4,127 MWh ruzgar
+2026-05-03 01:49:46,085 [INFO] [2025-11-24 11:00:00] Tur 1 | 43,429 MWh | %11.8 yesil | 2,578 MWh ruzgar
+2026-05-03 01:50:16,107 [INFO] [2025-11-24 21:00:00] Tur 1 | 42,022 MWh | %3.7 yesil | 1,569 MWh ruzgar
+2026-05-03 01:50:46,131 [INFO] [2025-11-25 07:00:00] Tur 1 | 36,626 MWh | %7.3 yesil | 2,588 MWh ruzgar
+2026-05-03 01:51:16,154 [INFO] [2025-11-25 17:00:00] Tur 1 | 46,612 MWh | %6.3 yesil | 2,896 MWh ruzgar
+2026-05-03 01:51:46,176 [INFO] [2025-11-26 03:00:00] Tur 1 | 32,376 MWh | %20.6 yesil | 6,660 MWh ruzgar
+2026-05-03 01:52:16,199 [INFO] [2025-11-26 13:00:00] Tur 1 | 42,304 MWh | %28.1 yesil | 7,164 MWh ruzgar
+2026-05-03 01:52:46,223 [INFO] [2025-11-26 23:00:00] Tur 1 | 38,702 MWh | %17.9 yesil | 6,905 MWh ruzgar
+2026-05-03 01:53:16,244 [INFO] [2025-11-27 09:00:00] Tur 1 | 43,530 MWh | %23.5 yesil | 7,148 MWh ruzgar
+2026-05-03 01:53:46,266 [INFO] [2025-11-27 19:00:00] Tur 1 | 44,864 MWh | %11.0 yesil | 4,912 MWh ruzgar
+2026-05-03 01:54:16,288 [INFO] [2025-11-28 05:00:00] Tur 1 | 33,001 MWh | %13.1 yesil | 4,314 MWh ruzgar
+2026-05-03 01:54:46,309 [INFO] [2025-11-28 15:00:00] Tur 1 | 43,154 MWh | %12.5 yesil | 3,783 MWh ruzgar
+2026-05-03 01:55:16,332 [INFO] [2025-11-29 01:00:00] Tur 1 | 34,408 MWh | %16.2 yesil | 5,564 MWh ruzgar
+2026-05-03 01:55:46,353 [INFO] [2025-11-29 11:00:00] Tur 1 | 41,535 MWh | %22.3 yesil | 5,601 MWh ruzgar
+2026-05-03 01:56:16,376 [INFO] [2025-11-29 21:00:00] Tur 1 | 40,416 MWh | %13.4 yesil | 5,405 MWh ruzgar
+2026-05-03 01:56:46,398 [INFO] [2025-11-30 07:00:00] Tur 1 | 29,953 MWh | %10.9 yesil | 3,193 MWh ruzgar
+2026-05-03 01:57:16,418 [INFO] [2025-11-30 17:00:00] Tur 1 | 39,663 MWh | %5.9 yesil | 2,317 MWh ruzgar
+2026-05-03 01:57:46,440 [INFO] [2025-12-01 03:00:00] Tur 1 | 29,853 MWh | %7.1 yesil | 2,120 MWh ruzgar
+2026-05-03 01:58:16,463 [INFO] [2025-12-01 13:00:00] Tur 1 | 43,874 MWh | %8.6 yesil | 984 MWh ruzgar
+2026-05-03 01:58:46,484 [INFO] [2025-12-01 23:00:00] Tur 1 | 39,617 MWh | %1.6 yesil | 650 MWh ruzgar
+2026-05-03 01:59:16,507 [INFO] [2025-12-02 09:00:00] Tur 1 | 45,300 MWh | %5.5 yesil | 460 MWh ruzgar
+2026-05-03 01:59:46,528 [INFO] [2025-12-02 19:00:00] Tur 1 | 46,335 MWh | %0.7 yesil | 305 MWh ruzgar
+2026-05-03 02:00:16,551 [INFO] [2025-12-03 05:00:00] Tur 1 | 33,516 MWh | %1.9 yesil | 637 MWh ruzgar
+2026-05-03 02:00:46,572 [INFO] [2025-12-03 15:00:00] Tur 1 | 44,757 MWh | %5.3 yesil | 441 MWh ruzgar
+2026-05-03 02:01:16,594 [INFO] [2025-12-04 01:00:00] Tur 1 | 35,672 MWh | %5.5 yesil | 1,943 MWh ruzgar
+2026-05-03 02:01:46,617 [INFO] [2025-12-04 11:00:00] Tur 1 | 46,612 MWh | %11.1 yesil | 2,922 MWh ruzgar
+2026-05-03 02:02:16,640 [INFO] [2025-12-04 21:00:00] Tur 1 | 43,873 MWh | %10.3 yesil | 4,515 MWh ruzgar
+2026-05-03 02:02:46,661 [INFO] [2025-12-05 07:00:00] Tur 1 | 37,849 MWh | %17.5 yesil | 6,552 MWh ruzgar
+2026-05-03 02:03:16,684 [INFO] [2025-12-05 17:00:00] Tur 1 | 48,636 MWh | %19.1 yesil | 9,236 MWh ruzgar
+2026-05-03 02:03:46,708 [INFO] [2025-12-06 03:00:00] Tur 1 | 32,828 MWh | %23.7 yesil | 7,777 MWh ruzgar
+2026-05-03 02:04:16,731 [INFO] [2025-12-06 13:00:00] Tur 1 | 43,064 MWh | %12.2 yesil | 3,959 MWh ruzgar
+2026-05-03 02:04:46,754 [INFO] [2025-12-06 23:00:00] Tur 1 | 37,722 MWh | %16.8 yesil | 6,330 MWh ruzgar
+2026-05-03 02:05:16,776 [INFO] [2025-12-07 09:00:00] Tur 1 | 32,458 MWh | %21.5 yesil | 5,779 MWh ruzgar
+2026-05-03 02:05:46,801 [INFO] [2025-12-07 19:00:00] Tur 1 | 40,869 MWh | %12.0 yesil | 4,910 MWh ruzgar
+2026-05-03 02:06:16,823 [INFO] [2025-12-08 05:00:00] Tur 1 | 30,548 MWh | %13.6 yesil | 4,147 MWh ruzgar
+2026-05-03 02:06:46,848 [INFO] [2025-12-08 15:00:00] Tur 1 | 46,898 MWh | %14.4 yesil | 6,018 MWh ruzgar
+2026-05-03 02:07:16,871 [INFO] [2025-12-09 01:00:00] Tur 1 | 35,443 MWh | %21.3 yesil | 7,554 MWh ruzgar
+2026-05-03 02:07:46,892 [INFO] [2025-12-09 11:00:00] Tur 1 | 47,504 MWh | %18.2 yesil | 6,974 MWh ruzgar
+2026-05-03 02:08:16,915 [INFO] [2025-12-09 21:00:00] Tur 1 | 43,525 MWh | %13.3 yesil | 5,760 MWh ruzgar
+2026-05-03 02:08:46,936 [INFO] [2025-12-10 07:00:00] Tur 1 | 38,736 MWh | %9.1 yesil | 3,490 MWh ruzgar
+2026-05-03 02:09:16,960 [INFO] [2025-12-10 17:00:00] Tur 1 | 48,621 MWh | %4.4 yesil | 2,118 MWh ruzgar
+2026-05-03 02:09:46,984 [INFO] [2025-12-11 03:00:00] Tur 1 | 33,565 MWh | %11.9 yesil | 3,986 MWh ruzgar
+2026-05-03 02:10:17,006 [INFO] [2025-12-11 13:00:00] Tur 1 | 45,938 MWh | %11.6 yesil | 3,635 MWh ruzgar
+2026-05-03 02:10:47,030 [INFO] [2025-12-11 23:00:00] Tur 1 | 38,816 MWh | %7.1 yesil | 2,752 MWh ruzgar
+2026-05-03 02:11:17,052 [INFO] [2025-12-12 09:00:00] Tur 1 | 46,580 MWh | %5.4 yesil | 1,479 MWh ruzgar
+2026-05-03 02:11:47,073 [INFO] [2025-12-12 19:00:00] Tur 1 | 46,430 MWh | %4.5 yesil | 2,102 MWh ruzgar
+2026-05-03 02:12:17,098 [INFO] [2025-12-13 05:00:00] Tur 1 | 33,285 MWh | %16.0 yesil | 5,325 MWh ruzgar
+2026-05-03 02:12:47,121 [INFO] [2025-12-13 15:00:00] Tur 1 | 42,000 MWh | %18.7 yesil | 5,549 MWh ruzgar
+2026-05-03 02:13:17,142 [INFO] [2025-12-14 01:00:00] Tur 1 | 34,570 MWh | %14.0 yesil | 4,816 MWh ruzgar
+2026-05-03 02:13:47,164 [INFO] [2025-12-14 11:00:00] Tur 1 | 35,369 MWh | %14.9 yesil | 1,773 MWh ruzgar
+2026-05-03 02:14:17,187 [INFO] [2025-12-14 21:00:00] Tur 1 | 40,249 MWh | %5.6 yesil | 2,229 MWh ruzgar
+2026-05-03 02:14:47,210 [INFO] [2025-12-15 07:00:00] Tur 1 | 36,954 MWh | %15.7 yesil | 5,759 MWh ruzgar
+2026-05-03 02:15:17,233 [INFO] [2025-12-15 17:00:00] Tur 1 | 49,941 MWh | %10.9 yesil | 5,366 MWh ruzgar
+2026-05-03 02:15:47,256 [INFO] [2025-12-16 03:00:00] Tur 1 | 34,207 MWh | %12.5 yesil | 4,281 MWh ruzgar
+2026-05-03 02:16:17,277 [INFO] [2025-12-16 13:00:00] Tur 1 | 45,999 MWh | %14.2 yesil | 3,675 MWh ruzgar
+2026-05-03 02:16:47,299 [INFO] [2025-12-16 23:00:00] Tur 1 | 40,577 MWh | %14.8 yesil | 5,981 MWh ruzgar
+2026-05-03 02:17:17,323 [INFO] [2025-12-17 09:00:00] Tur 1 | 47,920 MWh | %13.7 yesil | 4,151 MWh ruzgar
+2026-05-03 02:17:47,346 [INFO] [2025-12-17 19:00:00] Tur 1 | 47,825 MWh | %4.5 yesil | 2,142 MWh ruzgar
+2026-05-03 02:18:17,370 [INFO] [2025-12-18 05:00:00] Tur 1 | 34,636 MWh | %3.6 yesil | 1,239 MWh ruzgar
+2026-05-03 02:18:47,391 [INFO] [2025-12-18 15:00:00] Tur 1 | 46,229 MWh | %7.1 yesil | 904 MWh ruzgar
+2026-05-03 02:19:17,414 [INFO] [2025-12-19 01:00:00] Tur 1 | 36,870 MWh | %2.9 yesil | 1,054 MWh ruzgar
+2026-05-03 02:19:47,435 [INFO] [2025-12-19 11:00:00] Tur 1 | 47,585 MWh | %9.8 yesil | 1,121 MWh ruzgar
+2026-05-03 02:20:17,457 [INFO] [2025-12-19 21:00:00] Tur 1 | 44,607 MWh | %8.3 yesil | 3,704 MWh ruzgar
+2026-05-03 02:20:47,480 [INFO] [2025-12-20 07:00:00] Tur 1 | 36,334 MWh | %11.1 yesil | 4,000 MWh ruzgar
+2026-05-03 02:21:17,502 [INFO] [2025-12-20 17:00:00] Tur 1 | 45,465 MWh | %7.4 yesil | 3,306 MWh ruzgar
+2026-05-03 02:21:47,526 [INFO] [2025-12-21 03:00:00] Tur 1 | 32,337 MWh | %9.2 yesil | 2,955 MWh ruzgar
+2026-05-03 02:22:17,548 [INFO] [2025-12-21 13:00:00] Tur 1 | 38,513 MWh | %11.6 yesil | 2,495 MWh ruzgar
+2026-05-03 02:22:47,571 [INFO] [2025-12-21 23:00:00] Tur 1 | 36,773 MWh | %11.6 yesil | 4,274 MWh ruzgar
+2026-05-03 02:23:17,594 [INFO] [2025-12-22 09:00:00] Tur 1 | 46,970 MWh | %13.1 yesil | 5,002 MWh ruzgar
+2026-05-03 02:23:47,617 [INFO] [2025-12-22 19:00:00] Tur 1 | 47,394 MWh | %14.5 yesil | 6,859 MWh ruzgar
+2026-05-03 02:24:17,637 [INFO] [2025-12-23 05:00:00] Tur 1 | 34,072 MWh | %20.2 yesil | 6,867 MWh ruzgar
+2026-05-03 02:24:47,658 [INFO] [2025-12-23 15:00:00] Tur 1 | 48,223 MWh | %9.9 yesil | 3,429 MWh ruzgar
+2026-05-03 02:25:17,680 [INFO] [2025-12-24 01:00:00] Tur 1 | 36,378 MWh | %5.3 yesil | 1,916 MWh ruzgar
+2026-05-03 02:25:47,704 [INFO] [2025-12-24 11:00:00] Tur 1 | 47,467 MWh | %7.0 yesil | 1,386 MWh ruzgar
+2026-05-03 02:26:17,725 [INFO] [2025-12-24 21:00:00] Tur 1 | 44,375 MWh | %7.4 yesil | 3,284 MWh ruzgar
+2026-05-03 02:26:47,749 [INFO] [2025-12-25 07:00:00] Tur 1 | 38,772 MWh | %8.6 yesil | 3,299 MWh ruzgar
+2026-05-03 02:27:17,770 [INFO] [2025-12-25 17:00:00] Tur 1 | 50,046 MWh | %5.7 yesil | 2,817 MWh ruzgar
+2026-05-03 02:27:47,791 [INFO] [2025-12-26 03:00:00] Tur 1 | 34,172 MWh | %17.3 yesil | 5,891 MWh ruzgar
+2026-05-03 02:28:17,815 [INFO] [2025-12-26 13:00:00] Tur 1 | 45,816 MWh | %10.4 yesil | 3,403 MWh ruzgar
+2026-05-03 02:28:47,839 [INFO] [2025-12-26 23:00:00] Tur 1 | 40,934 MWh | %8.3 yesil | 3,391 MWh ruzgar
+2026-05-03 02:29:17,862 [INFO] [2025-12-27 09:00:00] Tur 1 | 42,579 MWh | %19.0 yesil | 7,537 MWh ruzgar
+2026-05-03 02:29:47,883 [INFO] [2025-12-27 19:00:00] Tur 1 | 46,109 MWh | %14.0 yesil | 6,424 MWh ruzgar
+2026-05-03 02:30:17,905 [INFO] [2025-12-28 05:00:00] Tur 1 | 32,174 MWh | %17.6 yesil | 5,633 MWh ruzgar
+2026-05-03 02:30:47,927 [INFO] [2025-12-28 15:00:00] Tur 1 | 39,780 MWh | %23.9 yesil | 6,353 MWh ruzgar
+2026-05-03 02:31:17,949 [INFO] [2025-12-29 01:00:00] Tur 1 | 34,054 MWh | %21.2 yesil | 7,206 MWh ruzgar
+2026-05-03 02:31:47,970 [INFO] [2025-12-29 11:00:00] Tur 1 | 49,583 MWh | %12.4 yesil | 3,788 MWh ruzgar
+2026-05-03 02:32:17,993 [INFO] [2025-12-29 21:00:00] Tur 1 | 45,574 MWh | %13.6 yesil | 6,207 MWh ruzgar
+2026-05-03 02:32:48,014 [INFO] [2025-12-30 07:00:00] Tur 1 | 38,946 MWh | %21.6 yesil | 8,336 MWh ruzgar
+2026-05-03 02:33:18,035 [INFO] [2025-12-30 17:00:00] Tur 1 | 50,160 MWh | %19.2 yesil | 9,537 MWh ruzgar
+2026-05-03 02:33:48,057 [INFO] [2025-12-31 03:00:00] Tur 1 | 33,462 MWh | %28.4 yesil | 9,480 MWh ruzgar
+2026-05-03 02:34:18,079 [INFO] [2025-12-31 13:00:00] Tur 1 | 48,188 MWh | %16.6 yesil | 7,112 MWh ruzgar
+2026-05-03 02:34:48,102 [INFO] [2025-12-31 23:00:00] Tur 1 | 35,515 MWh | %8.7 yesil | 3,091 MWh ruzgar
+2026-05-03 02:35:18,123 [INFO] [2026-01-01 09:00:00] Tur 1 | 32,317 MWh | %19.6 yesil | 5,867 MWh ruzgar
+2026-05-03 02:35:48,145 [INFO] [2026-01-01 19:00:00] Tur 1 | 42,704 MWh | %10.5 yesil | 4,478 MWh ruzgar
+2026-05-03 02:36:18,167 [INFO] [2026-01-02 05:00:00] Tur 1 | 31,630 MWh | %14.4 yesil | 4,546 MWh ruzgar
+2026-05-03 02:36:48,189 [INFO] [2026-01-02 15:00:00] Tur 1 | 47,524 MWh | %18.6 yesil | 5,902 MWh ruzgar
+2026-05-03 02:37:18,211 [INFO] [2026-01-03 01:00:00] Tur 1 | 36,330 MWh | %26.9 yesil | 9,760 MWh ruzgar
+2026-05-03 02:37:48,234 [INFO] [2026-01-03 11:00:00] Tur 1 | 45,903 MWh | %32.9 yesil | 10,912 MWh ruzgar
+2026-05-03 02:38:18,255 [INFO] [2026-01-03 21:00:00] Tur 1 | 42,676 MWh | %26.1 yesil | 11,120 MWh ruzgar
+2026-05-03 02:38:48,276 [INFO] [2026-01-04 07:00:00] Tur 1 | 31,855 MWh | %33.4 yesil | 10,554 MWh ruzgar
+2026-05-03 02:39:18,297 [INFO] [2026-01-04 17:00:00] Tur 1 | 41,412 MWh | %25.7 yesil | 10,524 MWh ruzgar
+2026-05-03 02:39:48,319 [INFO] [2026-01-05 03:00:00] Tur 1 | 31,504 MWh | %28.7 yesil | 9,013 MWh ruzgar
+2026-05-03 02:40:18,341 [INFO] [2026-01-05 13:00:00] Tur 1 | 46,976 MWh | %26.2 yesil | 7,528 MWh ruzgar
+2026-05-03 02:40:48,363 [INFO] [2026-01-05 23:00:00] Tur 1 | 41,133 MWh | %21.5 yesil | 8,808 MWh ruzgar
+2026-05-03 02:41:18,388 [INFO] [2026-01-06 09:00:00] Tur 1 | 46,767 MWh | %24.3 yesil | 9,230 MWh ruzgar
+2026-05-03 02:41:48,409 [INFO] [2026-01-06 19:00:00] Tur 1 | 46,909 MWh | %21.3 yesil | 9,971 MWh ruzgar
+2026-05-03 02:42:18,431 [INFO] [2026-01-07 05:00:00] Tur 1 | 34,363 MWh | %30.1 yesil | 10,312 MWh ruzgar
+2026-05-03 02:42:48,451 [INFO] [2026-01-07 15:00:00] Tur 1 | 45,739 MWh | %31.2 yesil | 11,054 MWh ruzgar
+2026-05-03 02:43:18,473 [INFO] [2026-01-08 01:00:00] Tur 1 | 36,104 MWh | %31.2 yesil | 11,246 MWh ruzgar
+2026-05-03 02:43:48,497 [INFO] [2026-01-08 11:00:00] Tur 1 | 48,652 MWh | %26.3 yesil | 10,924 MWh ruzgar
+2026-05-03 02:44:18,518 [INFO] [2026-01-08 21:00:00] Tur 1 | 44,226 MWh | %19.4 yesil | 8,573 MWh ruzgar
+2026-05-03 02:44:48,539 [INFO] [2026-01-09 07:00:00] Tur 1 | 38,840 MWh | %13.1 yesil | 5,045 MWh ruzgar
+2026-05-03 02:45:18,563 [INFO] [2026-01-09 17:00:00] Tur 1 | 49,727 MWh | %12.5 yesil | 6,116 MWh ruzgar
+2026-05-03 02:45:48,586 [INFO] [2026-01-10 03:00:00] Tur 1 | 34,318 MWh | %29.3 yesil | 10,019 MWh ruzgar
+2026-05-03 02:46:18,608 [INFO] [2026-01-10 13:00:00] Tur 1 | 43,924 MWh | %35.0 yesil | 10,648 MWh ruzgar
+2026-05-03 02:46:48,629 [INFO] [2026-01-10 23:00:00] Tur 1 | 39,211 MWh | %27.1 yesil | 10,609 MWh ruzgar
+2026-05-03 02:47:18,652 [INFO] [2026-01-11 09:00:00] Tur 1 | 34,024 MWh | %24.6 yesil | 7,241 MWh ruzgar
+2026-05-03 02:47:48,674 [INFO] [2026-01-11 19:00:00] Tur 1 | 42,859 MWh | %19.1 yesil | 8,148 MWh ruzgar
+2026-05-03 02:48:18,696 [INFO] [2026-01-12 05:00:00] Tur 1 | 32,147 MWh | %21.9 yesil | 7,011 MWh ruzgar
+2026-05-03 02:48:48,720 [INFO] [2026-01-12 15:00:00] Tur 1 | 52,056 MWh | %13.8 yesil | 6,547 MWh ruzgar
+2026-05-03 02:49:18,741 [INFO] [2026-01-13 01:00:00] Tur 1 | 37,454 MWh | %15.2 yesil | 5,671 MWh ruzgar
+2026-05-03 02:49:48,762 [INFO] [2026-01-13 11:00:00] Tur 1 | 52,034 MWh | %8.7 yesil | 3,109 MWh ruzgar
+2026-05-03 08:09:37,195 [INFO] Akilli Sebeke Canli Veri Botu Baslatildi
+2026-05-03 08:09:37,195 [INFO] Mod: HACKATHON | Bekleme: 3s/saat | Dongu: True
+2026-05-03 08:09:37,195 [INFO] Gecmis CSV'ler okunuyor...
+2026-05-03 08:09:37,295 [INFO] 4392 saatlik veri hazirland. Aralik: 2025-11-01 00:00:00 -> 2026-05-01 23:00:00
+2026-05-03 08:09:37,295 [INFO] Eski canli_veri.csv silindi.
+2026-05-03 08:09:37,307 [INFO] Ilk 24 saatlik taban veri panele yuklendi.
+2026-05-03 08:09:37,307 [INFO] CANLI YAYIN BASLIYOR...
+2026-05-03 08:10:04,334 [INFO] [2025-11-02 09:00:00] Tur 1 | 30,347 MWh | %18.5 yesil | 1,710 MWh ruzgar
+2026-05-03 08:10:34,356 [INFO] [2025-11-02 19:00:00] Tur 1 | 37,827 MWh | %4.3 yesil | 1,628 MWh ruzgar
+2026-05-03 08:11:04,383 [INFO] [2025-11-03 05:00:00] Tur 1 | 28,878 MWh | %4.0 yesil | 1,144 MWh ruzgar
+2026-05-03 08:11:34,405 [INFO] [2025-11-03 15:00:00] Tur 1 | 41,470 MWh | %6.3 yesil | 758 MWh ruzgar
+2026-05-03 08:12:04,428 [INFO] [2025-11-04 01:00:00] Tur 1 | 32,906 MWh | %3.5 yesil | 1,166 MWh ruzgar
+2026-05-03 08:12:34,453 [INFO] [2025-11-04 11:00:00] Tur 1 | 41,728 MWh | %9.1 yesil | 303 MWh ruzgar
+2026-05-03 08:13:04,477 [INFO] [2025-11-04 21:00:00] Tur 1 | 40,578 MWh | %8.2 yesil | 3,340 MWh ruzgar
+2026-05-03 08:13:34,503 [INFO] [2025-11-05 07:00:00] Tur 1 | 34,915 MWh | %14.9 yesil | 4,817 MWh ruzgar
+2026-05-03 08:14:04,529 [INFO] [2025-11-05 17:00:00] Tur 1 | 44,331 MWh | %13.4 yesil | 5,804 MWh ruzgar
+2026-05-03 08:14:34,551 [INFO] [2025-11-06 03:00:00] Tur 1 | 31,578 MWh | %19.7 yesil | 6,213 MWh ruzgar
+2026-05-03 08:15:04,577 [INFO] [2025-11-06 13:00:00] Tur 1 | 41,272 MWh | %19.8 yesil | 4,460 MWh ruzgar
+2026-05-03 08:15:34,600 [INFO] [2025-11-06 23:00:00] Tur 1 | 37,049 MWh | %12.5 yesil | 4,622 MWh ruzgar
+2026-05-03 08:16:04,625 [INFO] [2025-11-07 09:00:00] Tur 1 | 41,389 MWh | %13.4 yesil | 3,456 MWh ruzgar
+2026-05-03 08:16:34,653 [INFO] [2025-11-07 19:00:00] Tur 1 | 42,694 MWh | %4.8 yesil | 2,041 MWh ruzgar
+2026-05-03 08:17:04,679 [INFO] [2025-11-08 05:00:00] Tur 1 | 30,921 MWh | %4.9 yesil | 1,517 MWh ruzgar
+2026-05-03 08:17:34,702 [INFO] [2025-11-08 15:00:00] Tur 1 | 38,555 MWh | %12.4 yesil | 2,067 MWh ruzgar
+2026-05-03 08:18:04,731 [INFO] [2025-11-09 01:00:00] Tur 1 | 31,569 MWh | %12.2 yesil | 3,861 MWh ruzgar
+2026-05-03 08:18:34,759 [INFO] [2025-11-09 11:00:00] Tur 1 | 32,378 MWh | %22.0 yesil | 2,210 MWh ruzgar
+2026-05-03 08:19:04,796 [INFO] [2025-11-09 21:00:00] Tur 1 | 35,339 MWh | %3.6 yesil | 1,265 MWh ruzgar
+2026-05-03 08:19:34,827 [INFO] [2025-11-10 07:00:00] Tur 1 | 32,197 MWh | %10.5 yesil | 3,154 MWh ruzgar
+2026-05-03 08:20:04,859 [INFO] [2025-11-10 17:00:00] Tur 1 | 44,038 MWh | %7.6 yesil | 3,259 MWh ruzgar
+2026-05-03 08:20:34,893 [INFO] [2025-11-11 03:00:00] Tur 1 | 31,534 MWh | %17.2 yesil | 5,402 MWh ruzgar
+2026-05-03 08:21:04,928 [INFO] [2025-11-11 13:00:00] Tur 1 | 42,255 MWh | %17.6 yesil | 4,149 MWh ruzgar
+2026-05-03 08:21:34,977 [INFO] [2025-11-11 23:00:00] Tur 1 | 36,999 MWh | %8.5 yesil | 3,144 MWh ruzgar
+2026-05-03 08:22:05,072 [INFO] [2025-11-12 09:00:00] Tur 1 | 41,558 MWh | %9.7 yesil | 2,095 MWh ruzgar
+2026-05-03 08:22:35,094 [INFO] [2025-11-12 19:00:00] Tur 1 | 43,276 MWh | %5.8 yesil | 2,511 MWh ruzgar
+2026-05-03 08:23:05,115 [INFO] [2025-11-13 05:00:00] Tur 1 | 31,921 MWh | %8.6 yesil | 2,755 MWh ruzgar
+2026-05-03 08:23:35,139 [INFO] [2025-11-13 15:00:00] Tur 1 | 43,468 MWh | %10.7 yesil | 3,110 MWh ruzgar
+2026-05-03 08:24:05,167 [INFO] [2025-11-14 01:00:00] Tur 1 | 34,070 MWh | %9.1 yesil | 3,082 MWh ruzgar
+2026-05-03 08:24:35,191 [INFO] [2025-11-14 11:00:00] Tur 1 | 43,576 MWh | %13.4 yesil | 2,856 MWh ruzgar
+2026-05-03 08:25:05,213 [INFO] [2025-11-14 21:00:00] Tur 1 | 40,918 MWh | %10.8 yesil | 4,420 MWh ruzgar
+2026-05-03 08:25:35,236 [INFO] [2025-11-15 07:00:00] Tur 1 | 33,009 MWh | %12.9 yesil | 4,172 MWh ruzgar
+2026-05-03 08:26:05,259 [INFO] [2025-11-15 17:00:00] Tur 1 | 41,928 MWh | %5.8 yesil | 2,355 MWh ruzgar
+2026-05-03 08:26:35,280 [INFO] [2025-11-16 03:00:00] Tur 1 | 30,397 MWh | %6.0 yesil | 1,806 MWh ruzgar
+2026-05-03 08:27:05,303 [INFO] [2025-11-16 13:00:00] Tur 1 | 34,100 MWh | %16.5 yesil | 1,387 MWh ruzgar
+2026-05-03 08:27:35,323 [INFO] [2025-11-16 23:00:00] Tur 1 | 34,938 MWh | %10.2 yesil | 3,557 MWh ruzgar
+2026-05-03 08:28:05,345 [INFO] [2025-11-17 09:00:00] Tur 1 | 42,496 MWh | %24.9 yesil | 6,618 MWh ruzgar
+2026-05-03 08:28:35,375 [INFO] [2025-11-17 19:00:00] Tur 1 | 43,979 MWh | %18.5 yesil | 8,128 MWh ruzgar
+2026-05-03 08:29:05,400 [INFO] [2025-11-18 05:00:00] Tur 1 | 32,455 MWh | %26.6 yesil | 8,603 MWh ruzgar
+2026-05-03 08:29:35,423 [INFO] [2025-11-18 15:00:00] Tur 1 | 42,171 MWh | %24.4 yesil | 6,940 MWh ruzgar
+2026-05-03 08:30:05,444 [INFO] [2025-11-19 01:00:00] Tur 1 | 33,945 MWh | %22.7 yesil | 7,687 MWh ruzgar
+2026-05-03 08:30:35,469 [INFO] [2025-11-19 11:00:00] Tur 1 | 43,509 MWh | %25.4 yesil | 6,039 MWh ruzgar
+2026-05-03 08:31:05,491 [INFO] [2025-11-19 21:00:00] Tur 1 | 41,672 MWh | %14.6 yesil | 6,059 MWh ruzgar
+2026-05-03 08:31:35,516 [INFO] [2025-11-20 07:00:00] Tur 1 | 36,373 MWh | %20.1 yesil | 7,066 MWh ruzgar
+2026-05-03 08:32:05,538 [INFO] [2025-11-20 17:00:00] Tur 1 | 45,251 MWh | %13.8 yesil | 6,130 MWh ruzgar
+2026-05-03 08:32:35,559 [INFO] [2025-11-21 03:00:00] Tur 1 | 32,288 MWh | %24.5 yesil | 7,893 MWh ruzgar
+2026-05-03 08:33:05,582 [INFO] [2025-11-21 13:00:00] Tur 1 | 40,257 MWh | %34.0 yesil | 7,695 MWh ruzgar
+2026-05-03 08:33:35,605 [INFO] [2025-11-21 23:00:00] Tur 1 | 38,005 MWh | %17.3 yesil | 6,543 MWh ruzgar
+2026-05-03 08:34:05,627 [INFO] [2025-11-22 09:00:00] Tur 1 | 38,632 MWh | %27.1 yesil | 7,267 MWh ruzgar
+2026-05-03 08:34:35,652 [INFO] [2025-11-22 19:00:00] Tur 1 | 41,426 MWh | %13.7 yesil | 5,663 MWh ruzgar
+2026-05-03 08:35:05,674 [INFO] [2025-11-23 05:00:00] Tur 1 | 29,722 MWh | %22.9 yesil | 6,783 MWh ruzgar
+2026-05-03 08:35:35,713 [INFO] [2025-11-23 15:00:00] Tur 1 | 34,386 MWh | %32.6 yesil | 8,044 MWh ruzgar
+2026-05-03 08:36:05,743 [INFO] [2025-11-24 01:00:00] Tur 1 | 30,875 MWh | %13.4 yesil | 4,127 MWh ruzgar
+2026-05-03 08:36:35,770 [INFO] [2025-11-24 11:00:00] Tur 1 | 43,429 MWh | %11.8 yesil | 2,578 MWh ruzgar
+2026-05-03 08:37:05,818 [INFO] [2025-11-24 21:00:00] Tur 1 | 42,022 MWh | %3.7 yesil | 1,569 MWh ruzgar
+2026-05-03 08:37:35,862 [INFO] [2025-11-25 07:00:00] Tur 1 | 36,626 MWh | %7.3 yesil | 2,588 MWh ruzgar
+2026-05-03 08:38:05,893 [INFO] [2025-11-25 17:00:00] Tur 1 | 46,612 MWh | %6.3 yesil | 2,896 MWh ruzgar
+2026-05-03 08:38:35,939 [INFO] [2025-11-26 03:00:00] Tur 1 | 32,376 MWh | %20.6 yesil | 6,660 MWh ruzgar
+2026-05-03 08:39:05,968 [INFO] [2025-11-26 13:00:00] Tur 1 | 42,304 MWh | %28.1 yesil | 7,164 MWh ruzgar
+2026-05-03 08:39:36,002 [INFO] [2025-11-26 23:00:00] Tur 1 | 38,702 MWh | %17.9 yesil | 6,905 MWh ruzgar
