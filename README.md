@@ -12,6 +12,8 @@ Elektrik şebekelerini geleneksel yapısından kurtarıp, otonom ve akıllı bir
 * **Senaryo Simülasyonu (What-If):** Beklenmedik hava olaylarının (sıcaklık, rüzgar, bulutluluk) şebekeye anlık etkisinin test edilmesi.
 * **Yapay Zeka Destekli Otonom Aksiyon:** Kriz durumlarında Gemini AI entegrasyonu ile anında çözüm ve müdahale raporlaması.
 
+https://drive.google.com/file/d/1u6-MUhtAvwP7Me3JWw4nEiuanzD0dCtY/view?usp=drive_link
+
 ## Kurulum Adımları
 
 Projeyi sorunsuz bir şekilde bilgisayarınızda çalıştırmak için aşağıdaki adımları sırasıyla uygulayın.
@@ -20,5 +22,3 @@ Projeyi sorunsuz bir şekilde bilgisayarınızda çalıştırmak için aşağıd
 Projenin ihtiyaç duyduğu tüm dış modülleri ve yapay zeka araçlarını tek seferde kurmak için terminali açın ve aşağıdaki komutu çalıştırın:
 ```bash
 pip install pandas numpy streamlit scikit-learn plotly requests google-generativeai
-
-https://drive.google.com/file/d/1u6-MUhtAvwP7Me3JWw4nEiuanzD0dCtY/view?usp=drive_link
